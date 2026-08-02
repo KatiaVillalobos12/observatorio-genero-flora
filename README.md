@@ -2,7 +2,7 @@
 
 **Estudiante:** Katia Villalobos Carlos
 
-**Curso:** E-Government Intelligence: Desarrollo de Aplicaciones y Chatbots para la Gestión Pública — QLAB PUCP (2026-1)
+**Curso:** E-Government Intelligence: Desarrollo de Aplicaciones y Chatbots para la Gestión Pública - QLAB PUCP (2026-1)
 
 **Profesor:** Cristian Muñoz Villalobos
 
