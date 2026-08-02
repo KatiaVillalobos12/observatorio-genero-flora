@@ -36,11 +36,17 @@ function loadFiles(): Record<string, string> {
         if (!entry.endsWith('.txt')) continue
         const filePath = path.join(categoriaPath, entry)
         const content = fs.readFileSync(filePath, 'utf-8')
+        // Se guarda con la ruta completa (categoria/archivo.txt) para busquedas
+        // organizadas, Y TAMBIEN con solo el nombre del archivo en la raiz,
+        // por si el modelo omite la subcarpeta al escribir el comando (ej.
+        // "cat archivo.txt" en vez de "cat practicas/archivo.txt"). No hay
+        // colisiones de nombres entre categorias (verificado al generar los datos).
         files[`${categoria.name}/${entry}`] = content
+        files[entry] = content
       }
     }
 
-    console.log(`[BashTool] Cargados ${Object.keys(files).length} archivos en filesystem virtual`)
+    console.log(`[BashTool] Cargados ${Object.keys(files).length} rutas de archivo en filesystem virtual`)
   } catch (error) {
     console.error('[BashTool] Error cargando archivos:', error)
   }
@@ -84,7 +90,7 @@ export async function getBashTool() {
 
 export async function getBashToolInstructions(): Promise<string> {
   const files = loadFiles()
-  const filenames = Object.keys(files)
+  const filenames = Object.keys(files).filter(f => f.includes('/'))
 
   if (filenames.length === 0) {
     return `## Base de conocimiento no disponible\n\nNo se encontraron documentos del Observatorio cargados.`
