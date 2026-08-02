@@ -31,10 +31,13 @@ export function ChatPanel() {
     },
   }), [savedApiKey, selectedModel])
 
+  const [chatError, setChatError] = useState<string | null>(null)
+
   const { messages, sendMessage, status } = useChat({
     transport,
     onError: (error) => {
       console.error('Chat error:', error)
+      setChatError('Flora no pudo responder. Puede ser un límite temporal del modelo gratuito — intenta de nuevo o cambia de modelo en ⚙️.')
     },
   })
 
@@ -66,6 +69,7 @@ export function ChatPanel() {
   const handleSend = (text?: string) => {
     const value = (text ?? inputValue).trim()
     if (!value || isLoading || !savedApiKey) return
+    setChatError(null)
     sendMessage({ text: value })
     setInputValue('')
   }
@@ -198,6 +202,14 @@ export function ChatPanel() {
         {messages.map((m) => (
           <MessageBubble key={m.id} message={m} isLoading={isLoading && m.id === messages[messages.length - 1]?.id} />
         ))}
+        {chatError && (
+          <div style={{
+            padding: '10px 14px', borderRadius: '10px', background: 'rgba(220,38,38,0.06)',
+            border: '1px solid rgba(220,38,38,0.2)', color: '#B91C1C', fontSize: '0.8rem',
+          }}>
+            ⚠️ {chatError}
+          </div>
+        )}
         <div ref={messagesEndRef} />
       </div>
 
