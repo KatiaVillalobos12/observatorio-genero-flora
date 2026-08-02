@@ -116,6 +116,7 @@ ${filenames.map(f => `- ${f}`).join('\n')}
 - grep -ril "palabra clave" /workspace: buscar en TODOS los documentos (recursivo, sin importar mayusculas/minusculas), lista los archivos que coinciden
 - grep -il "palabra clave" /workspace/estudios/*.txt: buscar solo dentro de estudios
 - find /workspace -name "*.txt": listar todos los archivos disponibles
+- ls /workspace/estudios | wc -l: CONTAR cuantos estudios hay (usa esto para preguntas de "cuantos", no leas archivo por archivo)
 
 ### FLUJO DE TRABAJO:
 1. Si la pregunta es sobre un dato/cifra concreta: busca en /workspace/indicadores

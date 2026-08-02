@@ -2,7 +2,7 @@ import { convertToModelMessages, createUIMessageStreamResponse, isStepCount, str
 import { createOpenRouter, DEFAULT_MODEL } from '@/lib/openrouter'
 import { getBashTool, getBashToolInstructions } from '@/lib/bash-tool'
 
-export const maxDuration = 30
+export const maxDuration = 60
 
 export async function POST(req: Request) {
   try {
@@ -40,7 +40,8 @@ de genero en la educacion superior.
 4. DESPUES de usar la herramienta, DEBES dar una respuesta final al usuario (nunca te quedes solo ejecutando comandos)
 5. SIEMPRE cita la fuente exacta de donde sacaste el dato (nombre del indicador y fuente original como SUNEDU/UNESCO/OCDE, o titulo del estudio/practica)
 6. Si no encuentras informacion relevante, dilo claramente. NUNCA inventes cifras, estudios o practicas
-7. Resume la informacion de forma clara, concisa y accesible (evita jerga estadistica innecesaria)
+7. Para preguntas de "cuantos" (ej. cuantos estudios hay), usa "ls carpeta | wc -l" en vez de leer cada archivo uno por uno — es mas rapido y evita quedarte sin pasos disponibles
+8. Resume la informacion de forma clara, concisa y accesible (evita jerga estadistica innecesaria)
 
 ### EJEMPLO DE FLUJO CORRECTO:
 Usuario: "¿Cual es la brecha de matricula femenina en carreras STEM?"
@@ -52,14 +53,21 @@ NO te quedes solo ejecutando comandos. SIEMPRE genera una respuesta final para e
       messages: await convertToModelMessages(messages),
       tools: { bash: tools.bash },
       toolChoice: 'auto',
-      stopWhen: isStepCount(10),
+      stopWhen: isStepCount(20),
       onError: (error) => {
         console.error('Stream error:', error)
       },
     })
 
     return createUIMessageStreamResponse({
-      stream: toUIMessageStream({ stream: result.stream }),
+      stream: toUIMessageStream({
+        stream: result.stream,
+        onError: (error) => {
+          const message = error instanceof Error ? error.message : String(error)
+          console.error('Stream error (sent to client):', message)
+          return message
+        },
+      }),
     })
   } catch (error) {
     console.error('API error:', error)
