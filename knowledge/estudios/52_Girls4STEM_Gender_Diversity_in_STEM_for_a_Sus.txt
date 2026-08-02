@@ -1,0 +1,27 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Girls4STEM: Gender Diversity in STEM for a Sustainable Future
+Autores/as: Xaro Benavent
+Esther de Ves
+Anabel Forte
+Carmen Botella-Mascarell
+Emilia López-Iñesta
+Silvia Rueda
+Sandra Roger
+Joaquín Pérez
+Cristina Portalés
+Esther Dura
+Daniel García-Costa
+Paula Marzal
+Año: 2020
+País: España
+Tipo de publicación: Artículo de revista
+Tema: Participación en campos académicos
+Resumen: Las disciplinas de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM) son fundamentales para afrontar los desafíos relacionados con los Objetivos de Desarrollo Sostenible. Sin embargo, la evidencia muestra que las mujeres se matriculan en estas disciplinas en menor proporción que los hombres, especialmente en los campos relacionados con la ingeniería. Tal como señala la sección de UN Women, aumentar el número de mujeres que estudian y trabajan en áreas STEM es clave para lograr mejores soluciones a los desafíos globales, ya que el potencial de innovación se amplía.
+
+En este artículo se presenta el proyecto Girls4STEM, iniciado en 2019 en la Escola Tècnica Superior d’Enginyeria de la Universitat de València, en España. Este proyecto busca romper los estereotipos asociados a las áreas STEM, dirigiéndose tanto a niños como a niñas de entre 6 y 18 años, pero con especial énfasis en ampliar el abanico de opciones profesionales para las niñas a través de la interacción con expertas en STEM.
+
+El objetivo es despertar el interés de las niñas por las disciplinas STEM desde la infancia, de modo que desarrollen mayor confianza en estas áreas. Para lograrlo, el proyecto se estructura en torno a tres acciones principales: las charlas familiares Girls4STEM, en las que participan estudiantes, familias y docentes; las charlas profesionales Girls4STEM, dirigidas a una audiencia general; y los seminarios de formación inicial para docentes.
+
+En el artículo se presentan resultados de corto plazo que muestran que aspectos relacionados con la autopercepción y la percepción por parte de otras personas (familia, docentes) desempeñan un papel significativo. Asimismo, los resultados indican que podría no existir una comprensión generalizada sobre qué disciplinas están incluidas dentro del ámbito STEM.
+Enlace: https://doi.org/10.3390/su12156051
+Referencia: Benavent, X., de Ves, E., Forte, A., Botella-Mascarell, C., López-Iñesta, E., Rueda, S., ... & Marzal, P. (2020). Girls4STEM: Gender diversity in STEM for a sustainable future. Sustainability, 12(15), 6051. https://doi.org/10.3390/su12156051 

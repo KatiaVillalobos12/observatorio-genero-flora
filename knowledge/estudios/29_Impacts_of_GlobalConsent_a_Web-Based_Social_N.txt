@@ -1,0 +1,19 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Impacts of GlobalConsent, a Web-Based Social Norms Edutainment Program, on Sexually Violent Behavior and Bystander Behavior Among University Men in Vietnam: Randomized Controlled Tria
+Autores/as: Kathryn M Yount
+Yuk Fai Cheong
+Irina Bergenfeld, Quach Thu Trang
+Jessica M Sales
+Yiman Li
+Tran Hung Minh
+Año: 2021
+País: Vietnam
+Tipo de publicación: Artículo de revista
+Tema: No violencia
+Resumen: La violencia sexual contra las mujeres está muy extendida en todo el mundo. Los programas de prevención que tratan a los hombres como aliados e integran un marco de espectador están surgiendo en entornos de bajos ingresos, pero las pruebas de su eficacia son contradictorias.
+
+Objetivo:
+Este estudio pretendía comprobar el impacto de GlobalConsent en el comportamiento sexualmente violento y el comportamiento prosocial de los espectadores entre los hombres universitarios de Vietnam.
+
+Enlace: https://doi.org/10.2196/35116
+Referencia: Yount, K. M., Cheong, Y. F., Bergenfeld, I., Trang, Q. T., Sales, J. M., Li, Y., & Minh, T. H. (2023). Impacts of GlobalConsent, a web-based social norms edutainment program, on sexually violent behavior and bystander behavior among university men in Vietnam: randomized controlled trial. JMIR public health and surveillance, 9(1), e35116. https://doi.org/10.2196/35116 

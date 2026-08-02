@@ -1,0 +1,19 @@
+FUENTE: Base de datos de buenas prácticas del Observatorio de Género en Educación Superior (PUCP)
+Título: Global Consent
+Tema: No violencia
+Objetivo del programa/intervención: Reducir la perpetración de violencia sexual y fomentar el comportamiento de espectador prosocial en hombres universitarios (Yount et al., 2020).
+Descripción de la intervención o programa: Programa web con 6 módulos interactivos que  abordan temas como el consentimiento informado, habilidades de comunicación sexual, el papel del alcohol en la violencia sexual y la empatía hacia las víctimas de violencia sexual.
+El diseño de los módulos se basa en teorías de cambio de comportamiento
+Incluye una serie dramática producida localmente para educación y entretenimiento (edutainment). Se utilizan elementos multimedia, como dramas en serie y testimonios, para ilustrar las experiencias de violencia sexual y estrategias de intervención.
+Accesible desde computadoras y dispositivos móviles.
+Enfoque en cambiar normas sociales y percepciones erróneas sobre la violencia sexual. 
+Se adapta a la cultura vietnamita tomando en cuenta investigaciones cualitativas que informan sobre las normas y actitudes locales, asegurando que el contenido sea relevante y aceptable para los jóvenes vietnamitas
+Países: Vietnam
+Duración y/o período de implementación: 12 semanas
+Evidencia de su contribución: 31.1% de los participantes en el grupo Global Consent reportaron haber cometido algún acto de violencia sexual en los 6 meses previos a la intervención (vs. 25.9% en el grupo de control) (Yount et al., 2023).
+Al finalizar la intervención, la probabilidad de cometer múltiples actos de violencia sexual aumentó 1.3 veces en el grupo de Global Consent, mientras que en el grupo de control aumentó 2.7 veces (Yount et al., 2023).
+La probabilidad de realizar acciones de intervención como espectador disminuyó 0.7 veces en el grupo de Global Consent, mientras que en el grupo de control la reducción fue mayor (0.5 veces) (Yount et al., 2021).
+Más del 92.7% de los participantes completaron al menos un módulo, y el 90.2% completó los 6 módulos (Yount et al., 2023)."
+Referencias: Yount, K. M., Minh, T. H., Trang, Q. T., Cheong, Y. F., Bergenfeld, I., & Sales, J. M. (2020). Preventing sexual violence in college men: a randomized-controlled trial of GlobalConsent. BMC public health, 20, 1-19. https://doi.org/10.1186/s12889-020-09454-2 
+Yount, K. M., Bergenfeld, I., Anderson, K. M., Trang, Q. T., Sales, J. M., Cheong, Y. F., & Minh, T. H. (2022). Theoretical mediators of GlobalConsent: An adapted web-based sexual violence prevention program for university men in Vietnam. Social Science & Medicine, 313, 115402. https://doi.org/10.1016/j.socscimed.2022.115402 
+Yount, K. M., Cheong, Y. F., Bergenfeld, I., Trang, Q. T., Sales, J. M., Li, Y., & Minh, T. H. (2023). Impacts of GlobalConsent, a web-based social norms edutainment program, on sexually violent behavior and bystander behavior among university men in Vietnam: Randomized controlled trial. JMIR public health and surveillance, 9(1), e35116.

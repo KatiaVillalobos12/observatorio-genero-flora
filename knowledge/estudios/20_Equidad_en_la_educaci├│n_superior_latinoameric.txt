@@ -1,0 +1,11 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Equidad en la educación superior latinoamericana: Dimensiones e indicadores
+Autores/as: Ana García de Fanelli
+Cecilia Adrogué
+Año: 2021
+País: Argentina, Chile, Uruguay
+Tipo de publicación: Artículo de revista
+Tema: Acceso, permanencia y culminación
+Resumen: Este trabajo analiza indicadores de equidad en la educación superior en Argentina, Chile y Uruguay en las etapas de finalización de la educación secundaria, acceso, permanencia y graduación en la educación superior y formación de capital humano avanzado. Entre los hallazgos cabe destacar que la principal barrera en el acceso de los sectores de menores ingresos a la educación superior es la finalización del secundario. Si bien las tasas de escolarización superior muestran brechas de acceso según nivel socioeconómico, la desigualdad social se reduce en Argentina y Uruguay cuando se calculan estas tasas entre los egresados del secundario. En los tres países el abandono es más elevado en los sectores de menores ingresos y en Argentina y Uruguay, entre los estudiantes primera generación. La baja graduación, especialmente en Uruguay y Argentina, repercute negativamente sobre la proporción de población adulta con educación superior completa. El análisis de ese indicador según nivel socioeconómico muestra brechas de inequidad considerables. Finalmente, el conjunto de indicadores examinados revela que las mujeres en los tres países superan a los varones en tasas de egreso de la secundaria, escolarización, permanencia y graduación en la educación superior y en la proporción de jóvenes con educación superior completa.
+Enlace: https://doi.org/10.54674/ess.v33i1.339
+Referencia: de Fanelli, A. G., & Adrogué, C. (2021). Equidad en la educación superior latinoamericana: Dimensiones e indicadores. Revista Educación Superior y Sociedad (ESS), 33(1), 85-114. https://doi.org/10.54674/ess.v33i1.339 

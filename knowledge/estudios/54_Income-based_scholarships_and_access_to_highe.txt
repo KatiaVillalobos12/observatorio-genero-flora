@@ -1,0 +1,18 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Income-based scholarships and access to higher education
+Autores/as: Guilherme Strifezzi Leal
+Álvaro Choi
+
+Año: 2022
+País: Brasil
+Tipo de publicación: Artículo de revista
+Tema: Acceso, permanencia y culminación
+Resumen: La ayuda financiera dirigida a estudiantes universitarios ha sido ampliamente implementada por los gobiernos de economías desarrolladas y emergentes con el fin de reducir las barreras de ingreso a la educación superior. Comprender en qué medida estas políticas facilitan el acceso a la educación superior es fundamental para evaluar la efectividad de estas inversiones en la promoción de la acumulación de capital humano.
+
+En este artículo abordamos esta cuestión mediante el uso de un marco de diferencias en diferencias, con el objetivo de investigar los impactos de Programa Universidade para Todos (Prouni), un programa federal brasileño creado en 2005 que otorga becas universitarias completas y parciales a estudiantes de familias de bajos ingresos.
+
+Proporcionamos evidencia causal de que, para 2007, la beca completa del Prouni había incrementado en un 37% la probabilidad de matricularse en la educación superior, mientras que la beca parcial la había incrementado en un 20%. Asimismo, cada 100 millones de dólares invertidos por el gobierno a través de las exenciones fiscales asociadas al Prouni generaron un aumento aproximado de 0.5 puntos porcentuales en la tasa de matrícula en educación superior entre personas en edad típica de cursar estos estudios (o, de manera equivalente, cada 1,000 dólares por estudiante incrementaron esta tasa en 1.3 puntos porcentuales).
+
+Además, nuestros resultados sugieren que los efectos de estas becas sobre el acceso a la educación superior fueron mayores para las mujeres y para las personas no blancas.
+Enlace: http://dx.doi.org/10.2139/ssrn.4099649
+Referencia: Strifezzi Leal, G., & Choi, Á. (2022). Income-based scholarships and access to higher education. UB Economics Working Papers E22/420, http://dx.doi.org/10.2139/ssrn.4099649 

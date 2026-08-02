@@ -1,0 +1,14 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Brechas socioeconómicas, generacionales y de género en la educación peruana: una aproximación con datos masivos de una ciudad norteña
+Autores/as: Wendy Arhuis-Inca
+Juan Carlos Bazo-Alvarez
+Janina Bazalar-Palacios
+Miguel Ipanaqué-Zapata
+Año: 2021
+País: Perú
+Tipo de publicación: Artículo de revista
+Tema: Acceso, permanencia y culminación
+Resumen: El objetivo de esta investigación fue determinar la brecha educativa entre géneros, niveles socioeconómicos y grupos generacionales en adultos citadinos. El diseño fue observacional y transversal, utilizando datos del Estudio Poblacional 2016-2017 realizado en Chimbote, Perú. Se observó el logro educativo, sexo, nivel socioeconómico y edad (grupo generacional) de 20,005 personas      mayores de 22 años. Los datos fueron resumidos en tablas de contingencia y analizados con la Chi-cuadrado de homogeneidad. Los resultados determinaron que las personas adultas presentaron brecha educativa, evidenciando claro desfavorecimiento en el nivel socioeconómico bajo, notándose en los grupos de nivel educativo secundario y superior. Dentro de los niveles socioeconómicos existen desigualdades educativas, evidenciándose en el logro secundario y superior para las mujeres más pobres y en el nivel superior para las generaciones menos jóvenes de ambos niveles socioeconómicos.
+
+Enlace: https://doi.org/10.17162/au.v11i3.702 
+Referencia: Arhuis-Inca, W., Bazo-Alvarez, J. C., Bazalar-Palacios, J., & Ipanaqué-Zapata, M. (2021). Brechas socioeconómicas, generacionales y de género en la educación peruana: una aproximación con datos masivos de una ciudad norteña. Apuntes Universitarios: Revista de Investigación, 11(3). https://doi.org/10.17162/au.v11i3.702 

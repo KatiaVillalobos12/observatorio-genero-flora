@@ -1,0 +1,121 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 2
+
+Participación en campos académicos
+Indicador 2: Selectividad de carreras masculinizadas y feminizadas por sexo
+I2_a: Tasa de selectividad de grupos de programas masculinizados total
+COLUMNAS: Indicador | Grupo de Programas | Clasificación | Nivel | Año | Tasa de selectividad total | Fuente
+Indicador: I2_a | Grupo de Programas: Ciencias de la Tierra | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 3.03 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Construcción e Ingeniería Civil | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 2.03 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Electrónica y Automatización | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.86 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Física | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.21 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Matemática | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.43 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Mecánica y Metalúrgica | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 2.01 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Minería y Extracción | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 2.33 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Sistemas y Cómputo | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 2.01 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Telecomunicaciones | Clasificación: Masculinizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 2 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Ciencias de la Tierra | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.66 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Construcción e Ingeniería Civil | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.63 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Electrónica y Automatización | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.24 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Física | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.04 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Matemática | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 1.9 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Mecánica y Metalúrgica | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.55 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Minería y Extracción | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 3.22 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Sistemas y Cómputo | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.73 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Telecomunicaciones | Clasificación: Masculinizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.56 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Ciencias de la Tierra | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 3.5 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Construcción e Ingeniería Civil | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 2.13 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Electrónica y Automatización | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 2.2 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Física | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.52 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Matemática | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.8 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Mecánica y Metalúrgica | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 2.2 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Minería y Extracción | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 2.84 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Sistemas y Cómputo | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 2.05 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Telecomunicaciones | Clasificación: Masculinizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.93 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Ciencias de la Tierra | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 3.03 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Construcción e Ingeniería Civil | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.62 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Electrónica y Automatización | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.36 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Física | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.16 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Matemática | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 1.5 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Mecánica y Metalúrgica | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.32 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Minería y Extracción | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 3.69 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Sistemas y Cómputo | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.78 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Telecomunicaciones | Clasificación: Masculinizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 3.12 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Ciencias de la Tierra | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 4.04 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Construcción e Ingeniería Civil | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.1 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Electrónica y Automatización | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.44 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Física | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 1.65 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Matemática | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.04 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Mecánica y Metalúrgica | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.22 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Minería y Extracción | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.9 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Sistemas y Cómputo | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 1.99 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Telecomunicaciones | Clasificación: Masculinizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.4 | Fuente: SUNEDU
+Indicador: I2_a | Grupo de Programas: Ciencias de la Tierra | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 4.32 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Construcción e Ingeniería Civil | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 3.03 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Electrónica y Automatización | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 3.56 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Física | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 2.69 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Matemática | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 1.27 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Mecánica y Metalúrgica | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 2.76 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Minería y Extracción | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 4.32 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Sistemas y Cómputo | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 3.15 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Telecomunicaciones | Clasificación: Masculinizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 3.29 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Ciencias de la Tierra | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 5.64 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Física | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 2.9 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Construcción e Ingeniería Civil | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 3.85 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Telecomunicaciones | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 4.03 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Minería y Extracción | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 4.88 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Electrónica y Automatización | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 3.36 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Sistemas y Cómputo | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 3.86 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Mecánica y Metalúrgica | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 3.25 | Fuente: DTI
+Indicador: I2_a | Grupo de Programas: Matemática | Clasificación: Masculinizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 1.92 | Fuente: DTI
+Indicador: I2_b: Tasa de selectividad de grupos de programas feminizados total
+Indicador: Indicador | Grupo de Programas: Grupo de Programas | Clasificación: Clasificación | Nivel: Nivel | Año: Año | Tasa de selectividad total: Tasa de selectividad | Fuente: Fuente
+Indicador: I2_b | Grupo de Programas: Diseño Industrial, de Modas e Interiores | Clasificación: Feminizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.6 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Educación Inicial | Clasificación: Feminizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 2.5 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Educación Primaria | Clasificación: Feminizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 2.34 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Hotelería, Restaurantes y Gastronomía | Clasificación: Feminizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.35 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Marketing y Publicidad | Clasificación: Feminizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.51 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Negocios Internacionales | Clasificación: Feminizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.56 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Psicología | Clasificación: Feminizado | Nivel: Perú | Año: 2022 | Tasa de selectividad total: 1.56 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Diseño Industrial, de Modas e Interiores | Clasificación: Feminizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.32 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Inicial | Clasificación: Feminizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 1.07 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Primaria | Clasificación: Feminizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 1.08 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Hotelería, Restaurantes y Gastronomía | Clasificación: Feminizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 4.33 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Marketing y Publicidad | Clasificación: Feminizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.46 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Negocios Internacionales | Clasificación: Feminizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.41 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Psicología | Clasificación: Feminizado | Nivel: PUCP | Año: 2022 | Tasa de selectividad total: 2.48 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Diseño Industrial, de Modas e Interiores | Clasificación: Feminizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.63 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Educación Inicial | Clasificación: Feminizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 2.56 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Educación Primaria | Clasificación: Feminizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 2.75 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Hotelería, Restaurantes y Gastronomía | Clasificación: Feminizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.38 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Marketing y Publicidad | Clasificación: Feminizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.45 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Negocios Internacionales | Clasificación: Feminizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.6 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Psicología | Clasificación: Feminizado | Nivel: Perú | Año: 2023 | Tasa de selectividad total: 1.5 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Diseño Industrial, de Modas e Interiores | Clasificación: Feminizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.12 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Inicial | Clasificación: Feminizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 1.67 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Primaria | Clasificación: Feminizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 1.11 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Hotelería, Restaurantes y Gastronomía | Clasificación: Feminizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 1.64 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Marketing y Publicidad | Clasificación: Feminizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.62 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Negocios Internacionales | Clasificación: Feminizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.67 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Psicología | Clasificación: Feminizado | Nivel: PUCP | Año: 2023 | Tasa de selectividad total: 2.75 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Diseño Industrial, de Modas e Interiores | Clasificación: Feminizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 1.9 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Educación Inicial | Clasificación: Feminizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.07 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Educación Primaria | Clasificación: Feminizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 2.54 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Hotelería, Restaurantes y Gastronomía | Clasificación: Feminizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 1.59 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Marketing y Publicidad | Clasificación: Feminizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 1.62 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Negocios Internacionales | Clasificación: Feminizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 1.6 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Psicología | Clasificación: Feminizado | Nivel: Perú | Año: 2024 | Tasa de selectividad total: 1.68 | Fuente: SUNEDU
+Indicador: I2_b | Grupo de Programas: Diseño Industrial, de Modas e Interiores | Clasificación: Feminizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 2.5 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Inicial | Clasificación: Feminizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 1 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Primaria | Clasificación: Feminizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 1.3 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Hotelería, Restaurantes y Gastronomía | Clasificación: Feminizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 1.49 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Marketing y Publicidad | Clasificación: Feminizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 3.59 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Negocios Internacionales | Clasificación: Feminizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 2.89 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Psicología | Clasificación: Feminizado | Nivel: PUCP | Año: 2024 | Tasa de selectividad total: 3.19 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Diseño Industrial, de Modas e Interiores | Clasificación: Feminizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 2.5 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Inicial | Clasificación: Feminizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 1.08 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Educación Primaria | Clasificación: Feminizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 1.04 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Hotelería, Restaurantes y Gastronomía | Clasificación: Feminizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 1.31 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Psicología | Clasificación: Feminizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 3.31 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Marketing y Publicidad | Clasificación: Feminizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 3.25 | Fuente: DTI
+Indicador: I2_b | Grupo de Programas: Negocios Internacionales | Clasificación: Feminizado | Nivel: PUCP | Año: 2025 | Tasa de selectividad total: 3.54 | Fuente: DTI

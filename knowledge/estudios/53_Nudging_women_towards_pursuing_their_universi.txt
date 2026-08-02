@@ -1,0 +1,18 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Nudging women towards pursuing their university careers
+Autores/as: Juliana Bernhofer
+Luca Bonacini
+Giuseppe Pignataro
+Año: 2025
+País: Italia
+Tipo de publicación: Artículo de revista
+Tema: Acceso, permanencia y culminación
+Resumen: Este estudio explora el impacto de intervenciones ligeras (light-touch) sobre los resultados académicos de estudiantes mujeres beneficiarias de becas. En un ensayo aleatorizado que involucró a cerca de 2000 estudiantes de la University of Bologna, se envió un mensaje dirigido que destacaba cómo la educación superior puede reducir la brecha de género en el mercado laboral y mejorar las perspectivas de empleo.
+
+El nudge aumentó en casi 5 puntos porcentuales la probabilidad de cumplir con los requisitos para mantener la beca. También se observaron mejoras significativas en la aprobación de exámenes con mayor carga de créditos y una reducción en el número de exámenes desaprobados en el mediano plazo, aunque no se registraron efectos en el corto plazo.
+
+De manera notable, se observó una mejora en las calificaciones durante el periodo de exámenes de julio/agosto, lo que refleja un cambio hacia la priorización de la calidad sobre la cantidad en el esfuerzo académico, a pesar de que las calificaciones no formaban parte de los requisitos para mantener la beca. Las estudiantes tratadas mostraron mayor concentración académica y hábitos de estudio más estratégicos, sin aumentar la carga total de exámenes.
+
+Estos hallazgos destacan el potencial de intervenciones informativas de bajo costo para generar cambios significativos entre mujeres que enfrentan barreras financieras e informativas, ofreciendo insumos valiosos para el diseño de políticas orientadas a apoyar a las estudiantes. Los resultados subrayan la importancia de intervenciones informativas oportunas que ayuden a las mujeres a tomar decisiones informadas sobre su educación, mejorando así su desempeño académico y sus perspectivas económicas a largo plazo.
+Enlace: https://doi.org/10.1111/ecca.12577
+Referencia: Bernhofer, J., Bonacini, L. and Pignataro, G. (2025). Nudging women towards pursuing their university careers. Economica, 92(367), 883-919. https://doi.org/10.1111/ecca.12577 

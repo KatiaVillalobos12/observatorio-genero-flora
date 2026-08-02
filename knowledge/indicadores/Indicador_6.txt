@@ -1,0 +1,48 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 6
+
+Igualdad en la docencia
+Indicador 6: Docencia en educación terciaria, por sexo
+I6_a: Porcentaje de docentes que son mujeres (semestral)
+I6_b: Porcentaje de docentes que son hombres (semestral)
+COLUMNAS: Semestre | Nivel | % Mujeres | % Hombres | Fuente | *Para Perú el cálculo se hace de manera semestral
+Semestre: 2020-I | Nivel: Perú | % Mujeres: 33.37474882272637 | % Hombres: 66.62525118 | Fuente: SUNEDU
+Semestre: 2020-II | Nivel: Perú | % Mujeres: 33.172873912676295 | % Hombres: 66.82712609 | Fuente: SUNEDU
+Semestre: 2021-I | Nivel: Perú | % Mujeres: 33.86438643864386 | % Hombres: 66.13561356 | Fuente: SUNEDU
+Semestre: 2021-II | Nivel: Perú | % Mujeres: 34.46554180066669 | % Hombres: 65.5344582 | Fuente: SUNEDU
+Semestre: 2022-I | Nivel: Perú | % Mujeres: 35.53587909552377 | % Hombres: 64.4641209 | Fuente: SUNEDU
+Semestre: 2022-II | Nivel: Perú | % Mujeres: 35.603661446358075 | % Hombres: 64.39633855 | Fuente: SUNEDU
+Semestre: 2023-I | Nivel: Perú | % Mujeres: 35.72101540625539 | % Hombres: 64.27898459 | Fuente: SUNEDU
+Semestre: 2023-II | Nivel: Perú | % Mujeres: 35.95631834146203 | % Hombres: 64.04368166 | Fuente: SUNEDU
+Semestre: 2024-I | Nivel: Perú | % Mujeres: 36.523425475589484 | % Hombres: 63.47657452 | Fuente: SUNEDU
+Semestre: 2024-II | Nivel: Perú | % Mujeres: 35.69769457444964 | % Hombres: 64.30230543 | Fuente: SUNEDU
+Semestre: 2020-I | Nivel: PUCP | % Mujeres: 34.81363996827914 | % Hombres: 65.18636003 | Fuente: DTI
+Semestre: 2020-II | Nivel: PUCP | % Mujeres: 35.529972211194924 | % Hombres: 64.47002779 | Fuente: DTI
+Semestre: 2021-I | Nivel: PUCP | % Mujeres: 36.615499812804195 | % Hombres: 63.38450019 | Fuente: DTI
+Semestre: 2021-II | Nivel: PUCP | % Mujeres: 36.887716654107 | % Hombres: 63.11228335 | Fuente: DTI
+Semestre: 2022-I | Nivel: PUCP | % Mujeres: 37.311286843997124 | % Hombres: 62.68871316 | Fuente: DTI
+Semestre: 2022-II | Nivel: PUCP | % Mujeres: 36.55097613882863 | % Hombres: 63.44902386 | Fuente: DTI
+Semestre: 2023-I | Nivel: PUCP | % Mujeres: 36.325237592397045 | % Hombres: 63.67476241 | Fuente: DTI
+Semestre: 2023-II | Nivel: PUCP | % Mujeres: 35.8601592246452 | % Hombres: 64.13984078 | Fuente: DTI
+Semestre: 2024-I | Nivel: PUCP | % Mujeres: 35.33783783783784 | % Hombres: 64.66216216 | Fuente: DTI
+Semestre: 2024-II | Nivel: PUCP | % Mujeres: 36.12291598561622 | % Hombres: 63.87708401 | Fuente: DTI
+Semestre: I6_a: Porcentaje de docentes que son mujeres (anual)
+Semestre: I6_b: Porcentaje de docentes que son hombres (anual)
+Semestre: Año | Nivel: Nivel | % Mujeres: % Mujeres | % Hombres: % Hombres | Fuente: Fuente
+Semestre: 2020 | Nivel: Global | % Mujeres: 43.6 | % Hombres: 56.4 | Fuente: UNESCO
+Semestre: 2021 | Nivel: Global | % Mujeres: 43.83 | % Hombres: 56.17 | Fuente: UNESCO
+Semestre: 2022 | Nivel: Global | % Mujeres: 44.14 | % Hombres: 55.86 | Fuente: UNESCO
+Semestre: 2023 | Nivel: Global | % Mujeres: 44.27 | % Hombres: 55.73 | Fuente: UNESCO
+Semestre: 2020 | Nivel: América Latina | % Mujeres: 42.31 | % Hombres: 57.69 | Fuente: UNESCO
+Semestre: 2021 | Nivel: América Latina | % Mujeres: 42.42 | % Hombres: 57.58 | Fuente: UNESCO
+Semestre: 2022 | Nivel: América Latina | % Mujeres: 42.67 | % Hombres: 57.33 | Fuente: UNESCO
+Semestre: 2023 | Nivel: América Latina | % Mujeres: 43.15 | % Hombres: 56.85 | Fuente: UNESCO
+Semestre: 2020 | Nivel: Perú | % Mujeres: 33.27867007508159 | % Hombres: 66.72132992 | Fuente: UNESCO
+Semestre: 2021 | Nivel: Perú | % Mujeres: 34.16816937153543 | % Hombres: 65.83183063 | Fuente: UNESCO
+Semestre: 2022 | Nivel: Perú | % Mujeres: 35.56972353191766 | % Hombres: 64.43027647 | Fuente: UNESCO
+Semestre: 2023 | Nivel: Perú | % Mujeres: 35.83460318767761 | % Hombres: 64.16539681 | Fuente: UNESCO
+Semestre: 2020 | Nivel: PUCP | % Mujeres: 35.171592937909146 | % Hombres: 64.82840706 | Fuente: DTI
+Semestre: 2021 | Nivel: PUCP | % Mujeres: 36.751173708920184 | % Hombres: 63.24882629 | Fuente: DTI
+Semestre: 2022 | Nivel: PUCP | % Mujeres: 36.9322278298486 | % Hombres: 63.06777217 | Fuente: DTI
+Semestre: 2023 | Nivel: PUCP | % Mujeres: 36.090750436300176 | % Hombres: 63.90924956 | Fuente: DTI
+Semestre: Fuente: https://databrowser.uis.unesco.org/browser

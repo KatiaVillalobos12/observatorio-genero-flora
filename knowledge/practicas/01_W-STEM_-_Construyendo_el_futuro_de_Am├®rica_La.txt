@@ -1,0 +1,21 @@
+FUENTE: Base de datos de buenas prácticas del Observatorio de Género en Educación Superior (PUCP)
+Título: W-STEM - Construyendo el futuro de América Latina: involucrando a las mujeres en STEM
+Tema: Participación en campos académicos
+Objetivo del programa/intervención: Mejorar las estrategias y mecanismos de atracción, acceso y orientación de mujeres en programas de educación superior en áreas de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM) en América Latina, reduciendo la brecha de género en estas disciplinas
+Descripción de la intervención o programa: El proyecto implementó políticas institucionales para promover la participación de mujeres en STEM, desarrolló estrategias de acceso, proporcionó guías y recursos de apoyo, y fomentó redes de colaboración entre universidades de América Latina y Europa. También organizó conferencias, talleres y programas de mentoría para sensibilizar sobre la equidad de género en estos campos.
+Países: América Latina (Chile, Colombia, Costa Rica, Ecuador, México) y Europa (España, Finlandia, Irlanda, Italia, Reino Unido)
+Duración y/o período de implementación: 3 años y medio (2019-2022)
+Evidencia de su contribución: Aumento en la inscripción de mujeres: Algunas universidades reportaron un crecimiento en la matrícula de mujeres en STEM tras la implementación de estrategias del proyecto. Ejemplo: Universidad del Norte pasó de 34.13% a un mayor porcentaje de inscripción en los últimos años.
+Mayor tasa de retención: La tasa de mujeres que permanecen en STEM después del primer año mejoró en universidades con programas de mentoría y apoyo.
+Incremento en la graduación: En 2018, las mujeres representaban el 32.57% de graduadas en STEM, cifra que mostró crecimiento en algunas instituciones tras las intervenciones."
+Mayor confianza y motivación: Estudiantes y profesionales señalaron una mayor confianza en su desarrollo académico en STEM gracias a mentorías y apoyo institucional.
+Cambio en la cultura institucional: Universidades comenzaron a priorizar la equidad de género, implementando políticas de inclusión para mujeres en áreas científicas y tecnológicas.
+Crecimiento en la matrícula de mujeres en STEM: Varias universidades reportaron incrementos de hasta 5-10% en nuevos ingresos de mujeres.
+Aumento en la retención: Instituciones con programas de apoyo reportaron una menor tasa de deserción entre mujeres en STEM.
+Más mujeres en liderazgo: Se incrementó la participación de mujeres en roles de dirección y docencia en STEM en universidades participantes.
+Referencias: Camacho Díaz, A., García Ramos, L., PeñaBaena Niebles, R., & Díaz Vitola, L. (2022). Analysis of the strategies applied at Universidad del Norte to engage women into STEM.
+
+García-Holgado, A., Díaz, A. C., & García-Peñalvo, F. J. (2019, October). Engaging women into STEM in Latin America: W-STEM project. In Proceedings of the seventh international conference on technological ecosystems for enhancing multiculturality (pp. 232-239).
+García-Holgado, A., & García-Peñalvo, F. J. (2022). A model for bridging the gender gap in STEM in higher education institutions. In Women in STEM in higher education: Good practices of attraction, access and retainment in higher education (pp. 1-19). Singapore: Springer Nature Singapore.
+García-Holgado, A., Segarra-Morales, S., González-Rogado, A. B., & García-Peñalvo, F. J. (2022, October). Definition and Implementation of W-STEM Mentoring Network. In LAWCC@ CLEI (pp. 32-41).
+García-Peñalvo, F. J., Bello, A., Domínguez, Á., & Romero Chacón, R. (2019). Informe del W-STEM International Leadership Summit World Café. Cartagena de Indias, Colombia, 26 de noviembre de 2019.

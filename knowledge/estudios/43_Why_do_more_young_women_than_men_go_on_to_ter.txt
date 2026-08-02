@@ -1,0 +1,14 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Why do more young women than men go on to tertiary education?
+Autores/as: OCDE
+Año: 2021
+País: Global
+Tipo de publicación: Informe
+Tema: Acceso, permanencia y culminación
+Resumen: Comprender las dinámicas de género en las transiciones educativas puede ayudar a orientar políticas que promuevan un acceso equitativo a la educación, así como mejorar su calidad y los resultados en el mercado laboral. En casi todos los países de la Organisation for Economic Co-operation and Development, la brecha de género a favor de las mujeres es más amplia en la educación terciaria que en la educación secundaria superior.
+
+Las diferencias en la orientación de los programas y el desempeño educativo de las niñas en la escuela pueden darles un mayor acceso a la educación terciaria que a los niños. Los cambios en la oferta de carreras en la educación superior, así como el valor social que tiene una educación universitaria para las mujeres jóvenes, también pueden influir en sus decisiones.
+
+Además, las mujeres jóvenes tienden a obtener mayores beneficios de un título de educación terciaria en el mercado laboral que sus pares hombres, tanto en términos de empleo como de ingresos, lo que puede hacer que continuar con estudios superiores resulte más atractivo.
+Enlace: https://doi.org/10.1787/6f7209d1-en.
+Referencia: OECD (2021), “Why do more young women than men go on to tertiary education?”, Education Indicators in Focus, No. 79, OECD Publishing, Paris, https://doi.org/10.1787/6f7209d1-en.

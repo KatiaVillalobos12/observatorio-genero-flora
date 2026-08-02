@@ -1,0 +1,107 @@
+:root {
+  --paper: #F5F7FF;
+  --paper-dim: #EAEEFF;
+  --ink: #042354;
+  --ink-soft: #5C6B8A;
+  --primary: #5366FF;
+  --primary-dark: #042354;
+  --accent: #00BF82;
+  --accent-dark: #008768;
+  --lime: #ADD754;
+  --line: #D8DEFA;
+  --white: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, .display {
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--line);
+  border-radius: 8px;
+}
+
+.markdown-content p {
+  margin: 0 0 0.6em 0;
+}
+.markdown-content p:last-child {
+  margin-bottom: 0;
+}
+.markdown-content ul, .markdown-content ol {
+  margin: 0.4em 0;
+  padding-left: 1.2em;
+}
+.markdown-content strong {
+  color: inherit;
+}
+.markdown-content code {
+  background: rgba(83, 102, 255, 0.08);
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+.markdown-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.6em 0;
+  font-size: 0.85em;
+}
+.markdown-content th, .markdown-content td {
+  border: 1px solid var(--line);
+  padding: 6px 10px;
+  text-align: left;
+}
+.markdown-content th {
+  background: var(--paper-dim);
+  font-weight: 700;
+}
+.markdown-content tr:nth-child(even) td {
+  background: rgba(83, 102, 255, 0.03);
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+@media (max-width: 860px) {
+  .main-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .main-grid section:last-child {
+    height: 70vh !important;
+    min-height: 480px !important;
+  }
+  .hero-grid {
+    grid-template-columns: 1fr !important;
+    text-align: center;
+  }
+  .hero-grid > div:last-child {
+    justify-content: center !important;
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,12 @@
+FUENTE: Base de datos de buenas prácticas del Observatorio de Género en Educación Superior (PUCP)
+Título: TakeCARE
+Tema: No violencia
+Objetivo del programa/intervención: Incrementar comportamientos de intervención prosocial entre estudiantes universitarios/as ante situaciones de riesgo de violencia sexual, fortaleciendo su autoeficacia para actuar cuando sus amistades pueden estar expuestas a coerción, abuso o agresión.
+Descripción de la intervención o programa: TakeCARE es un programa breve de prevención primaria basado en un video de 24 minutos que enseña a estudiantes a actuar como bystanders activos para proteger a sus amistades. El video presenta tres viñetas dramatizadas que muestran situaciones en fiestas y residencias, explicando cómo intervenir para prevenir o detener coerción sexual y cómo apoyar a amistades afectadas. La estrategia gira en torno al acrónimo CARE (Confident, Aware, Responsible, Effective). A diferencia de programas presenciales, TakeCARE se diseñó para ser escalable, económico, de alta fidelidad y administrado en línea a cohortes completas.
+Países: Estados Unidos
+Duración y/o período de implementación: Ensayos controlados aleatorizados realizados en 2014; el programa se utiliza continuamente desde entonces en diversas universidades.
+Evidencia de su contribución: Estudiantes que vieron TakeCARE (video) reportaron más conductas de bystander al mes de seguimiento (media ajustada = 27.92 vs. 21.98), diferencia estadísticamente significativa (F = 5.77, p = .017). 
+Participantes en TakeCARE mostraron incremento sostenido en conductas de bystander a los dos meses (media ajustada = 39.39 vs. 33.08; F = 4.03, p = .046). 
+Estudiantes eportaron mayor autoeficacia para intervenir (82.04 vs. 74.61).
+La mediación por autoeficacia fue significativa (25% del efecto total explicado).
+Referencias: Jouriles, E. N., McDonald, R., Rosenfield, D., Levy, N., Sargent, K., Caiozzo, C., & Grych, J. H. (2016). TakeCARE, a video bystander program to help prevent sexual violence on college campuses: Results of two randomized, controlled trials. Psychology of Violence, 6(3), 410.

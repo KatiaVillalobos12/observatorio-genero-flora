@@ -1,0 +1,12 @@
+FUENTE: Base de datos de buenas prácticas del Observatorio de Género en Educación Superior (PUCP)
+Título: NSF ADVANCE: Organizational Change for Gender Equity in STEM Academic Professions
+Tema: Participación en campos académicos
+Objetivo del programa/intervención: Promover la igualdad de género en las profesiones académicas STEM mediante cambios organizacionales sostenibles orientados a mejorar la contratación, retención, desarrollo profesional y clima institucional para mujeres docentes e investigadoras.
+Descripción de la intervención o programa: NSF ADVANCE es un programa federal de los Estados Unidos que financia intervenciones institucionales para transformar estructuras, prácticas y culturas universitarias que reproducen desigualdades de género en STEM. Las instituciones desarrollan estrategias sistémicas en tres áreas: mejorar procesos de reclutamiento y selección; fortalecer el mentoring, redes y desarrollo profesional de mujeres en STEM; y mejorar el clima académico mediante intervenciones formativas y revisión de políticas internas. Se centra en el cambio organizacional, no en intervenciones individuales.
+Países: Estados Unidos
+Duración y/o período de implementación: Desde 2001; implementado en 177 instituciones hasta 2018.
+Evidencia de su contribución: Incremento en la proporción de mujeres contratadas en posiciones tenure-track en STEM en instituciones que implementaron programas de reclutamiento con formación en sesgos.
+Aumento de la representación de mujeres entre el profesorado STEM en universidades con intervenciones prolongadas (por ejemplo, mejoras verificadas en universidades como New Hampshire, Wisconsin-Madison y Michigan).
+Reducciones medibles en sesgos de género declarados por docentes tras intervenciones activas (“Scientific Diversity”, VIDS).
+Aumento documentado en solicitudes de mujeres para plazas STEM cuando los comités aplican criterios inclusivos y estrategias activas de búsqueda.
+Referencias: Casad, B. J., Franks, J. E., Garasky, C. E., Kittleman, M. M., Roesler, A. C., Hall, D. Y., & Petzel, Z. W. (2020). Gender inequality in academia: Problems and solutions for women faculty in STEM. Journal of Neuroscience Research. https://doi.org/10.1002/jnr.24631

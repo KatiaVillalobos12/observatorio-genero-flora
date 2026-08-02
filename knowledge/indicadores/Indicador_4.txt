@@ -1,0 +1,80 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 4
+
+Acceso, permanencia y culminación
+Indicador 4: Graduación de estudiantes, por sexo
+I4_a: Porcentaje de graduados/as que son mujeres (bachiller)
+I4_b: Porcentaje de graduados/as que son hombres (bachiller)
+COLUMNAS: Nivel | Año | % Mujeres | % Hombres | Fuente
+Nivel: OCDE | Año: 2017 | % Mujeres: 58.62 | % Hombres: 41.38 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2018 | % Mujeres: 58.87 | % Hombres: 41.13 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2019 | % Mujeres: 58.66 | % Hombres: 41.34 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2020 | % Mujeres: 58.72 | % Hombres: 41.28 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2021 | % Mujeres: 58.88 | % Hombres: 41.12 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2022 | % Mujeres: 59.06 | % Hombres: 40.94 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2023 | % Mujeres: 59.36 | % Hombres: 40.64 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2017 | % Mujeres: 59.8 | % Hombres: 40.2 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2018 | % Mujeres: 59.93 | % Hombres: 40.07 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2019 | % Mujeres: 59.43 | % Hombres: 40.57 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2020 | % Mujeres: 59.69 | % Hombres: 40.31 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2021 | % Mujeres: 59.63 | % Hombres: 40.37 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2022 | % Mujeres: 59.87 | % Hombres: 40.13 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2023 | % Mujeres: 60.25 | % Hombres: 39.75 | Fuente: OCDE Data Explorer
+Nivel: Perú | Año: 2022 | % Mujeres: 56.89 | % Hombres: 43.11 | Fuente: OCDE Data Explorer
+Nivel: PUCP | Año: 2017 | % Mujeres: 47.77 | % Hombres: 52.23 | Fuente: DTI
+Nivel: PUCP | Año: 2018 | % Mujeres: 49.32 | % Hombres: 50.68 | Fuente: DTI
+Nivel: PUCP | Año: 2019 | % Mujeres: 50.79 | % Hombres: 49.21 | Fuente: DTI
+Nivel: PUCP | Año: 2020 | % Mujeres: 51.07 | % Hombres: 48.93 | Fuente: DTI
+Nivel: PUCP | Año: 2021 | % Mujeres: 49.86 | % Hombres: 50.14 | Fuente: DTI
+Nivel: PUCP | Año: 2022 | % Mujeres: 52.85 | % Hombres: 47.15 | Fuente: DTI
+Nivel: PUCP | Año: 2023 | % Mujeres: 51.7 | % Hombres: 48.3 | Fuente: DTI
+Nivel: I4_c: Porcentaje de graduados/as que son mujeres (maestría)
+Nivel: I4_d: Porcentaje de graduados/as que son hombres (maestría)
+Nivel: Nivel | Año: Año | % Mujeres: % Mujeres | % Hombres: % Hombres | Fuente: Fuente
+Nivel: OCDE | Año: 2017 | % Mujeres: 57.22 | % Hombres: 42.78 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2018 | % Mujeres: 57.55 | % Hombres: 42.45 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2019 | % Mujeres: 57.87 | % Hombres: 42.13 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2020 | % Mujeres: 57.9 | % Hombres: 42.1 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2021 | % Mujeres: 58.14 | % Hombres: 41.86 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2022 | % Mujeres: 58.6 | % Hombres: 41.4 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2023 | % Mujeres: 58.93 | % Hombres: 41.07 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2017 | % Mujeres: 59.24 | % Hombres: 40.76 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2018 | % Mujeres: 59.46 | % Hombres: 40.54 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2019 | % Mujeres: 59.59 | % Hombres: 40.41 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2020 | % Mujeres: 59.72 | % Hombres: 40.28 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2021 | % Mujeres: 59.94 | % Hombres: 40.06 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2022 | % Mujeres: 60.29 | % Hombres: 39.71 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2023 | % Mujeres: 60.66 | % Hombres: 39.34 | Fuente: OCDE Data Explorer
+Nivel: PUCP | Año: 2017 | % Mujeres: 34.79 | % Hombres: 65.21 | Fuente: DTI
+Nivel: PUCP | Año: 2018 | % Mujeres: 39.1854705558613 | % Hombres: 60.81452944 | Fuente: DTI
+Nivel: PUCP | Año: 2019 | % Mujeres: 40.2241594022416 | % Hombres: 59.7758406 | Fuente: DTI
+Nivel: PUCP | Año: 2020 | % Mujeres: 42.1307506053269 | % Hombres: 57.86924939 | Fuente: DTI
+Nivel: PUCP | Año: 2021 | % Mujeres: 42.2936893203884 | % Hombres: 57.70631068 | Fuente: DTI
+Nivel: PUCP | Año: 2022 | % Mujeres: 41.1140583554377 | % Hombres: 58.88594164 | Fuente: DTI
+Nivel: PUCP | Año: 2023 | % Mujeres: 41.1475409836066 | % Hombres: 58.85245902 | Fuente: DTI
+Nivel: I4_e: Porcentaje de graduados/as que son mujeres (doctorado)
+Nivel: I4_f: Porcentaje de graduados/as que son hombres (doctorado)
+Nivel: Nivel | Año: Año | % Mujeres: % Mujeres | % Hombres: % Hombres | Fuente: Fuente
+Nivel: OCDE | Año: 2017 | % Mujeres: 48.69 | % Hombres: 51.31 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2018 | % Mujeres: 47.97 | % Hombres: 52.03 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2019 | % Mujeres: 48.11 | % Hombres: 51.89 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2020 | % Mujeres: 48.38 | % Hombres: 51.62 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2021 | % Mujeres: 47.33 | % Hombres: 52.67 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2022 | % Mujeres: 48.78 | % Hombres: 51.22 | Fuente: OCDE Data Explorer
+Nivel: OCDE | Año: 2023 | % Mujeres: 48.75 | % Hombres: 51.25 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2017 | % Mujeres: 50.13 | % Hombres: 49.87 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2018 | % Mujeres: 49.36 | % Hombres: 50.64 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2019 | % Mujeres: 49.75 | % Hombres: 50.25 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2020 | % Mujeres: 49.85 | % Hombres: 50.15 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2021 | % Mujeres: 49.27 | % Hombres: 50.73 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2022 | % Mujeres: 50.39 | % Hombres: 49.61 | Fuente: OCDE Data Explorer
+Nivel: Unión Europea | Año: 2023 | % Mujeres: 50.28 | % Hombres: 49.72 | Fuente: OCDE Data Explorer
+Nivel: PUCP | Año: 2017 | % Mujeres: 5.88235294117647 | % Hombres: 94.11764706 | Fuente: DTI
+Nivel: PUCP | Año: 2018 | % Mujeres: 38.2352941176471 | % Hombres: 61.76470588 | Fuente: DTI
+Nivel: PUCP | Año: 2019 | % Mujeres: 40 | % Hombres: 60 | Fuente: DTI
+Nivel: PUCP | Año: 2020 | % Mujeres: 30.4347826086957 | % Hombres: 69.56521739 | Fuente: DTI
+Nivel: PUCP | Año: 2021 | % Mujeres: 41.304347826087 | % Hombres: 58.69565217 | Fuente: DTI
+Nivel: PUCP | Año: 2022 | % Mujeres: 40.4761904761905 | % Hombres: 59.52380952 | Fuente: DTI
+Nivel: PUCP | Año: 2023 | % Mujeres: 28.3333333333333 | % Hombres: 71.66666667 | Fuente: DTI
+Nivel: Fuente: Los datos para OCDE, UE y Perú son obtenidos de OCDE a través de su portal OCDE Data Explorer. Los datos para la PUCP son obtenidos de DTI-PUCP.
+Nivel: Enlace: https://data-explorer.oecd.org/vis?lc=en&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_EAG_UOE_NON_FIN_STUD%40DF_UOE_NF_SHARE_GENDER&df[ag]=OECD.EDU.IMEP&df[vs]=1.0&dq=.ISCED11_5%2BISCED11_6%2BISCED11_7%2BISCED11_8.GRAD.....A...._T..F%2BM.&pd=2013,2024&to[TIME_PERIOD]=false&vw=tb

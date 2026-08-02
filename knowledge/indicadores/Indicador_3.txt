@@ -1,0 +1,187 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 3
+
+Participación en campos académicos
+Indicador 3: Matrícula de estudiantes en carreras masculinizadas y feminizadas, por sexo
+I3_a: Porcentaje de estudiantes matriculados/as en carreras masculinizadas que son mujeres
+I3_b: Porcentaje de estudiantes matriculados/as en carreras masculinizadas que son hombres
+COLUMNAS: Grupo de programa | Nivel | Clasificación | Año | % Mujeres | % Hombres | Fuente
+Grupo de programa: Ciencias de la Tierra | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.2747085656360872 | % Hombres: 0.7252914344 | Fuente: SUNEDU
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.20629133457690352 | % Hombres: 0.7937086654 | Fuente: SUNEDU
+Grupo de programa: Electrónica y Automatización | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.07663248785752834 | % Hombres: 0.9233675121 | Fuente: SUNEDU
+Grupo de programa: Física | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.14475955610357583 | % Hombres: 0.8552404439 | Fuente: SUNEDU
+Grupo de programa: Matemática | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.20812074829931973 | % Hombres: 0.7918792517 | Fuente: SUNEDU
+Grupo de programa: Mecánica y Metalúrgica | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.07254387734516844 | % Hombres: 0.9274561227 | Fuente: SUNEDU
+Grupo de programa: Minería y Extracción | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.15571833648393194 | % Hombres: 0.8442816635 | Fuente: SUNEDU
+Grupo de programa: Sistemas y Cómputo | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.14345864298812855 | % Hombres: 0.856541357 | Fuente: SUNEDU
+Grupo de programa: Telecomunicaciones | Nivel: Perú | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.1582853961773984 | % Hombres: 0.8417146038 | Fuente: SUNEDU
+Grupo de programa: Ciencias de la Tierra | Nivel: PUCP | Clasificación: Neutral | Año: 2020 | % Mujeres: 0.467680608365019 | % Hombres: 0.5323193916 | Fuente: DTI
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.2494767685223943 | % Hombres: 0.7505232315 | Fuente: DTI
+Grupo de programa: Electrónica y Automatización | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.14522821576763487 | % Hombres: 0.8547717842 | Fuente: DTI
+Grupo de programa: Física | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.16727272727272727 | % Hombres: 0.8327272727 | Fuente: DTI
+Grupo de programa: Matemática | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.05952380952380952 | % Hombres: 0.9404761905 | Fuente: DTI
+Grupo de programa: Mecánica y Metalúrgica | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.09251352120694563 | % Hombres: 0.9074864788 | Fuente: DTI
+Grupo de programa: Minería y Extracción | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.12568306010928962 | % Hombres: 0.8743169399 | Fuente: DTI
+Grupo de programa: Sistemas y Cómputo | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.1441835062807209 | % Hombres: 0.8558164937 | Fuente: DTI
+Grupo de programa: Telecomunicaciones | Nivel: PUCP | Clasificación: Masculinizado | Año: 2020 | % Mujeres: 0.24742268041237114 | % Hombres: 0.7525773196 | Fuente: DTI
+Grupo de programa: Ciencias de la Tierra | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.28257655755015837 | % Hombres: 0.7174234424 | Fuente: SUNEDU
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.20707818162749234 | % Hombres: 0.7929218184 | Fuente: SUNEDU
+Grupo de programa: Electrónica y Automatización | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.07401638108637756 | % Hombres: 0.9259836189 | Fuente: SUNEDU
+Grupo de programa: Física | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.1466369930761622 | % Hombres: 0.8533630069 | Fuente: SUNEDU
+Grupo de programa: Matemática | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.20629991126885536 | % Hombres: 0.7937000887 | Fuente: SUNEDU
+Grupo de programa: Mecánica y Metalúrgica | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.0706866020410026 | % Hombres: 0.929313398 | Fuente: SUNEDU
+Grupo de programa: Minería y Extracción | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.16852900095567155 | % Hombres: 0.831470999 | Fuente: SUNEDU
+Grupo de programa: Sistemas y Cómputo | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.1375713836268126 | % Hombres: 0.8624286164 | Fuente: SUNEDU
+Grupo de programa: Telecomunicaciones | Nivel: Perú | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.1476055450535602 | % Hombres: 0.8523944549 | Fuente: SUNEDU
+Grupo de programa: Ciencias de la Tierra | Nivel: PUCP | Clasificación: Neutral | Año: 2021 | % Mujeres: 0.4918032786885246 | % Hombres: 0.5081967213 | Fuente: DTI
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.2471957671957672 | % Hombres: 0.7528042328 | Fuente: DTI
+Grupo de programa: Electrónica y Automatización | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.12313937753721245 | % Hombres: 0.8768606225 | Fuente: DTI
+Grupo de programa: Física | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.13664596273291926 | % Hombres: 0.8633540373 | Fuente: DTI
+Grupo de programa: Matemática | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.07142857142857142 | % Hombres: 0.9285714286 | Fuente: DTI
+Grupo de programa: Mecánica y Metalúrgica | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.0959935466523259 | % Hombres: 0.9040064533 | Fuente: DTI
+Grupo de programa: Minería y Extracción | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.14095238095238094 | % Hombres: 0.859047619 | Fuente: DTI
+Grupo de programa: Sistemas y Cómputo | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.14428766499772416 | % Hombres: 0.855712335 | Fuente: DTI
+Grupo de programa: Telecomunicaciones | Nivel: PUCP | Clasificación: Masculinizado | Año: 2021 | % Mujeres: 0.23938879456706283 | % Hombres: 0.7606112054 | Fuente: DTI
+Grupo de programa: Ciencias de la Tierra | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.28945367655045073 | % Hombres: 0.7105463234 | Fuente: SUNEDU
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.20454656430567236 | % Hombres: 0.7954534357 | Fuente: SUNEDU
+Grupo de programa: Electrónica y Automatización | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.07238487568044726 | % Hombres: 0.9276151243 | Fuente: SUNEDU
+Grupo de programa: Física | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.15185974887467424 | % Hombres: 0.8481402511 | Fuente: SUNEDU
+Grupo de programa: Matemática | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.2093633778166703 | % Hombres: 0.7906366222 | Fuente: SUNEDU
+Grupo de programa: Mecánica y Metalúrgica | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.07053831874834261 | % Hombres: 0.9294616813 | Fuente: SUNEDU
+Grupo de programa: Minería y Extracción | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.17729509950781083 | % Hombres: 0.8227049005 | Fuente: SUNEDU
+Grupo de programa: Sistemas y Cómputo | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.1346558864129363 | % Hombres: 0.8653441136 | Fuente: SUNEDU
+Grupo de programa: Telecomunicaciones | Nivel: Perú | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.14146201349992818 | % Hombres: 0.8585379865 | Fuente: SUNEDU
+Grupo de programa: Ciencias de la Tierra | Nivel: PUCP | Clasificación: Neutral | Año: 2022 | % Mujeres: 0.49682875264270615 | % Hombres: 0.5031712474 | Fuente: DTI
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.24627395315826828 | % Hombres: 0.7537260468 | Fuente: DTI
+Grupo de programa: Electrónica y Automatización | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.12552301255230125 | % Hombres: 0.8744769874 | Fuente: DTI
+Grupo de programa: Física | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.1694915254237288 | % Hombres: 0.8305084746 | Fuente: DTI
+Grupo de programa: Matemática | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.07317073170731707 | % Hombres: 0.9268292683 | Fuente: DTI
+Grupo de programa: Mecánica y Metalúrgica | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.09782608695652174 | % Hombres: 0.902173913 | Fuente: DTI
+Grupo de programa: Minería y Extracción | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.14965986394557823 | % Hombres: 0.8503401361 | Fuente: DTI
+Grupo de programa: Sistemas y Cómputo | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.28563700297538547 | % Hombres: 0.714362997 | Fuente: DTI
+Grupo de programa: Telecomunicaciones | Nivel: PUCP | Clasificación: Masculinizado | Año: 2022 | % Mujeres: 0.23939393939393938 | % Hombres: 0.7606060606 | Fuente: DTI
+Grupo de programa: Ciencias de la Tierra | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.2905973451327434 | % Hombres: 0.7094026549 | Fuente: SUNEDU
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.20307399778165108 | % Hombres: 0.7969260022 | Fuente: SUNEDU
+Grupo de programa: Electrónica y Automatización | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.06873960590636496 | % Hombres: 0.9312603941 | Fuente: SUNEDU
+Grupo de programa: Física | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.15960989533777356 | % Hombres: 0.8403901047 | Fuente: SUNEDU
+Grupo de programa: Matemática | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.20025537348371994 | % Hombres: 0.7997446265 | Fuente: SUNEDU
+Grupo de programa: Mecánica y Metalúrgica | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.07330893221651298 | % Hombres: 0.9266910678 | Fuente: SUNEDU
+Grupo de programa: Minería y Extracción | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.18856937455068296 | % Hombres: 0.8114306254 | Fuente: SUNEDU
+Grupo de programa: Sistemas y Cómputo | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.1317970614090167 | % Hombres: 0.8682029386 | Fuente: SUNEDU
+Grupo de programa: Telecomunicaciones | Nivel: Perú | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.14562821454812638 | % Hombres: 0.8543717855 | Fuente: SUNEDU
+Grupo de programa: Ciencias de la Tierra | Nivel: PUCP | Clasificación: Neutral | Año: 2023 | % Mujeres: 0.4622425629290618 | % Hombres: 0.5377574371 | Fuente: DTI
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.24492385786802032 | % Hombres: 0.7550761421 | Fuente: DTI
+Grupo de programa: Electrónica y Automatización | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.10662824207492795 | % Hombres: 0.8933717579 | Fuente: DTI
+Grupo de programa: Física | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.1523545706371191 | % Hombres: 0.8476454294 | Fuente: DTI
+Grupo de programa: Matemática | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.07142857142857142 | % Hombres: 0.9285714286 | Fuente: DTI
+Grupo de programa: Mecánica y Metalúrgica | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.10564010743061773 | % Hombres: 0.8943598926 | Fuente: DTI
+Grupo de programa: Minería y Extracción | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.15914489311163896 | % Hombres: 0.8408551069 | Fuente: DTI
+Grupo de programa: Sistemas y Cómputo | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.16593567251461988 | % Hombres: 0.8340643275 | Fuente: DTI
+Grupo de programa: Telecomunicaciones | Nivel: PUCP | Clasificación: Masculinizado | Año: 2023 | % Mujeres: 0.24489795918367346 | % Hombres: 0.7551020408 | Fuente: DTI
+Grupo de programa: Ciencias de la Tierra | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.2907150235280615 | % Hombres: 0.7092849765 | Fuente: SUNEDU
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.20144678892364343 | % Hombres: 0.7985532111 | Fuente: SUNEDU
+Grupo de programa: Electrónica y Automatización | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.06714859437751004 | % Hombres: 0.9328514056 | Fuente: SUNEDU
+Grupo de programa: Física | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.15644317641464575 | % Hombres: 0.8435568236 | Fuente: SUNEDU
+Grupo de programa: Matemática | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.20380991396968456 | % Hombres: 0.796190086 | Fuente: SUNEDU
+Grupo de programa: Mecánica y Metalúrgica | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.07340042156796084 | % Hombres: 0.9265995784 | Fuente: SUNEDU
+Grupo de programa: Minería y Extracción | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.19955015112110774 | % Hombres: 0.8004498489 | Fuente: SUNEDU
+Grupo de programa: Sistemas y Cómputo | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.13234930634336162 | % Hombres: 0.8676506937 | Fuente: SUNEDU
+Grupo de programa: Telecomunicaciones | Nivel: Perú | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.1388312073568674 | % Hombres: 0.8611687926 | Fuente: SUNEDU
+Grupo de programa: Ciencias de la Tierra | Nivel: PUCP | Clasificación: Neutral | Año: 2024 | % Mujeres: 0.4505208333333333 | % Hombres: 0.5494791667 | Fuente: DTI
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.24156746031746032 | % Hombres: 0.7584325397 | Fuente: DTI
+Grupo de programa: Electrónica y Automatización | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.10404624277456648 | % Hombres: 0.8959537572 | Fuente: DTI
+Grupo de programa: Física | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.13920454545454544 | % Hombres: 0.8607954545 | Fuente: DTI
+Grupo de programa: Matemática | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.10679611650485436 | % Hombres: 0.8932038835 | Fuente: DTI
+Grupo de programa: Mecánica y Metalúrgica | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.118562874251497 | % Hombres: 0.8814371257 | Fuente: DTI
+Grupo de programa: Minería y Extracción | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.16853932584269662 | % Hombres: 0.8314606742 | Fuente: DTI
+Grupo de programa: Sistemas y Cómputo | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.1727471156844403 | % Hombres: 0.8272528843 | Fuente: DTI
+Grupo de programa: Telecomunicaciones | Nivel: PUCP | Clasificación: Masculinizado | Año: 2024 | % Mujeres: 0.2235294117647059 | % Hombres: 0.7764705882 | Fuente: DTI
+Grupo de programa: Ciencias de la Tierra | Nivel: PUCP | Clasificación: Neutral | Año: 2025 | % Mujeres: 0.4356 | % Hombres: 0.5644 | Fuente: DTI
+Grupo de programa: Construcción e Ingeniería Civil | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.2393 | % Hombres: 0.7607 | Fuente: DTI
+Grupo de programa: Electrónica y Automatización | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.0974 | % Hombres: 0.9026 | Fuente: DTI
+Grupo de programa: Física | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.1604 | % Hombres: 0.8396 | Fuente: DTI
+Grupo de programa: Matemática | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.1226 | % Hombres: 0.8774 | Fuente: DTI
+Grupo de programa: Mecánica y Metalúrgica | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.1209 | % Hombres: 0.8791 | Fuente: DTI
+Grupo de programa: Minería y Extracción | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.1849 | % Hombres: 0.8151 | Fuente: DTI
+Grupo de programa: Sistemas y Cómputo | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.1744 | % Hombres: 0.8256 | Fuente: DTI
+Grupo de programa: Telecomunicaciones | Nivel: PUCP | Clasificación: Masculinizado | Año: 2025 | % Mujeres: 0.1989 | % Hombres: 0.8011 | Fuente: DTI
+Grupo de programa: I3_c: Porcentaje de estudiantes matriculados/as en carreras feminizadas que son mujeres
+Grupo de programa: I3_d: Porcentaje de estudiantes matriculados/as en carreras feminizadas que son hombres
+Grupo de programa: Grupo de programa | Nivel: Nivel | Clasificación: Clasificación | Año: Año | % Mujeres: % Mujeres | % Hombres: % Hombres | Fuente: Fuente
+Grupo de programa: Educación Inicial | Nivel: Perú | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.9901083743842365 | % Hombres: 0.009891625616 | Fuente: SUNEDU
+Grupo de programa: Educación Primaria | Nivel: Perú | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.7658659393685094 | % Hombres: 0.2341340606 | Fuente: SUNEDU
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: Perú | Clasificación: Neutral | Año: 2020 | % Mujeres: 0.46845473940871685 | % Hombres: 0.5315452606 | Fuente: SUNEDU
+Grupo de programa: Marketing y Publicidad | Nivel: Perú | Clasificación: Neutral | Año: 2020 | % Mujeres: 0.5783657821544013 | % Hombres: 0.4216342178 | Fuente: SUNEDU
+Grupo de programa: Negocios Internacionales | Nivel: Perú | Clasificación: Neutral | Año: 2020 | % Mujeres: 0.5851479467774104 | % Hombres: 0.4148520532 | Fuente: SUNEDU
+Grupo de programa: Psicología | Nivel: Perú | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.7558071361921042 | % Hombres: 0.2441928638 | Fuente: SUNEDU
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: Perú | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.8424543946932007 | % Hombres: 0.1575456053 | Fuente: SUNEDU
+Grupo de programa: Educación Inicial | Nivel: PUCP | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.9974093264248705 | % Hombres: 0.002590673575 | Fuente: DTI
+Grupo de programa: Educación Primaria | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2020 | % Mujeres: 0.8436123348017621 | % Hombres: 0.1563876652 | Fuente: DTI
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2020 | % Mujeres: 0.7692307692307693 | % Hombres: 0.2307692308 | Fuente: DTI
+Grupo de programa: Marketing y Publicidad | Nivel: PUCP | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.7403973509933774 | % Hombres: 0.259602649 | Fuente: DTI
+Grupo de programa: Negocios Internacionales | Nivel: PUCP | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.726890756302521 | % Hombres: 0.2731092437 | Fuente: DTI
+Grupo de programa: Psicología | Nivel: PUCP | Clasificación: Feminizado | Año: 2020 | % Mujeres: 0.7745438748913988 | % Hombres: 0.2254561251 | Fuente: DTI
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2020 | % Mujeres: 0.7075471698113207 | % Hombres: 0.2924528302 | Fuente: DTI
+Grupo de programa: Educación Inicial | Nivel: Perú | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.9908560245638898 | % Hombres: 0.009143975436 | Fuente: SUNEDU
+Grupo de programa: Educación Primaria | Nivel: Perú | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.7684133202742409 | % Hombres: 0.2315866797 | Fuente: SUNEDU
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: Perú | Clasificación: Neutral | Año: 2021 | % Mujeres: 0.46193283773391436 | % Hombres: 0.5380671623 | Fuente: SUNEDU
+Grupo de programa: Marketing y Publicidad | Nivel: Perú | Clasificación: Neutral | Año: 2021 | % Mujeres: 0.583710407239819 | % Hombres: 0.4162895928 | Fuente: SUNEDU
+Grupo de programa: Negocios Internacionales | Nivel: Perú | Clasificación: Neutral | Año: 2021 | % Mujeres: 0.5992990925337108 | % Hombres: 0.4007009075 | Fuente: SUNEDU
+Grupo de programa: Psicología | Nivel: Perú | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.7617932378376089 | % Hombres: 0.2382067622 | Fuente: SUNEDU
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: Perú | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.8110348770726129 | % Hombres: 0.1889651229 | Fuente: SUNEDU
+Grupo de programa: Educación Inicial | Nivel: PUCP | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.9968152866242038 | % Hombres: 0.003184713376 | Fuente: DTI
+Grupo de programa: Educación Primaria | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2021 | % Mujeres: 0.8378378378378378 | % Hombres: 0.1621621622 | Fuente: DTI
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2021 | % Mujeres: 0.8524590163934426 | % Hombres: 0.1475409836 | Fuente: DTI
+Grupo de programa: Marketing y Publicidad | Nivel: PUCP | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.7453874538745388 | % Hombres: 0.2546125461 | Fuente: DTI
+Grupo de programa: Negocios Internacionales | Nivel: PUCP | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.7228144989339019 | % Hombres: 0.2771855011 | Fuente: DTI
+Grupo de programa: Psicología | Nivel: PUCP | Clasificación: Feminizado | Año: 2021 | % Mujeres: 0.7778229082047117 | % Hombres: 0.2221770918 | Fuente: DTI
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2021 | % Mujeres: 0.6971428571428572 | % Hombres: 0.3028571429 | Fuente: DTI
+Grupo de programa: Educación Inicial | Nivel: Perú | Clasificación: Feminizado | Año: 2022 | % Mujeres: 0.9910699841459863 | % Hombres: 0.008930015854 | Fuente: SUNEDU
+Grupo de programa: Educación Primaria | Nivel: Perú | Clasificación: Feminizado | Año: 2022 | % Mujeres: 0.7635072409951726 | % Hombres: 0.236492759 | Fuente: SUNEDU
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: Perú | Clasificación: Neutral | Año: 2022 | % Mujeres: 0.4539851222104144 | % Hombres: 0.5460148778 | Fuente: SUNEDU
+Grupo de programa: Marketing y Publicidad | Nivel: Perú | Clasificación: Neutral | Año: 2022 | % Mujeres: 0.5965240798174264 | % Hombres: 0.4034759202 | Fuente: SUNEDU
+Grupo de programa: Negocios Internacionales | Nivel: Perú | Clasificación: Neutral | Año: 2022 | % Mujeres: 0.6009259456806981 | % Hombres: 0.3990740543 | Fuente: SUNEDU
+Grupo de programa: Psicología | Nivel: Perú | Clasificación: Feminizado | Año: 2022 | % Mujeres: 0.7561488879264222 | % Hombres: 0.2438511121 | Fuente: SUNEDU
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: Perú | Clasificación: Feminizado | Año: 2022 | % Mujeres: 0.8159782339846648 | % Hombres: 0.184021766 | Fuente: SUNEDU
+Grupo de programa: Educación Inicial | Nivel: PUCP | Clasificación: Feminizado | Año: 2022 | % Mujeres: 1 | % Hombres: 0 | Fuente: DTI
+Grupo de programa: Educación Primaria | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2022 | % Mujeres: 0.6 | % Hombres: 0.4 | Fuente: DTI
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2022 | % Mujeres: 0.7971014492753623 | % Hombres: 0.2028985507 | Fuente: DTI
+Grupo de programa: Marketing y Publicidad | Nivel: PUCP | Clasificación: Feminizado | Año: 2022 | % Mujeres: 0.7402135231316725 | % Hombres: 0.2597864769 | Fuente: DTI
+Grupo de programa: Negocios Internacionales | Nivel: PUCP | Clasificación: Feminizado | Año: 2022 | % Mujeres: 0.7092198581560284 | % Hombres: 0.2907801418 | Fuente: DTI
+Grupo de programa: Psicología | Nivel: PUCP | Clasificación: Feminizado | Año: 2022 | % Mujeres: 0.7616229923922232 | % Hombres: 0.2383770076 | Fuente: DTI
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2022 | % Mujeres: 0.4663323782234957 | % Hombres: 0.5336676218 | Fuente: DTI
+Grupo de programa: Educación Inicial | Nivel: Perú | Clasificación: Feminizado | Año: 2023 | % Mujeres: 0.9917081260364843 | % Hombres: 0.008291873964 | Fuente: SUNEDU
+Grupo de programa: Educación Primaria | Nivel: Perú | Clasificación: Feminizado | Año: 2023 | % Mujeres: 0.7650326221125022 | % Hombres: 0.2349673779 | Fuente: SUNEDU
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: Perú | Clasificación: Neutral | Año: 2023 | % Mujeres: 0.4456422437420062 | % Hombres: 0.5543577563 | Fuente: SUNEDU
+Grupo de programa: Marketing y Publicidad | Nivel: Perú | Clasificación: Neutral | Año: 2023 | % Mujeres: 0.5980424684804246 | % Hombres: 0.4019575315 | Fuente: SUNEDU
+Grupo de programa: Negocios Internacionales | Nivel: Perú | Clasificación: Neutral | Año: 2023 | % Mujeres: 0.5958999451638757 | % Hombres: 0.4041000548 | Fuente: SUNEDU
+Grupo de programa: Psicología | Nivel: Perú | Clasificación: Feminizado | Año: 2023 | % Mujeres: 0.749584814014536 | % Hombres: 0.250415186 | Fuente: SUNEDU
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: Perú | Clasificación: Feminizado | Año: 2023 | % Mujeres: 0.7964462438146649 | % Hombres: 0.2035537562 | Fuente: SUNEDU
+Grupo de programa: Educación Inicial | Nivel: PUCP | Clasificación: Feminizado | Año: 2023 | % Mujeres: 1 | % Hombres: 0 | Fuente: DTI
+Grupo de programa: Educación Primaria | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2023 | % Mujeres: 0.9206349206349206 | % Hombres: 0.07936507937 | Fuente: DTI
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2023 | % Mujeres: 0.7526881720430108 | % Hombres: 0.247311828 | Fuente: DTI
+Grupo de programa: Marketing y Publicidad | Nivel: PUCP | Clasificación: Feminizado | Año: 2023 | % Mujeres: 0.75 | % Hombres: 0.25 | Fuente: DTI
+Grupo de programa: Negocios Internacionales | Nivel: PUCP | Clasificación: Feminizado | Año: 2023 | % Mujeres: 0.7439393939393939 | % Hombres: 0.2560606061 | Fuente: DTI
+Grupo de programa: Psicología | Nivel: PUCP | Clasificación: Feminizado | Año: 2023 | % Mujeres: 0.7741666666666667 | % Hombres: 0.2258333333 | Fuente: DTI
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2023 | % Mujeres: 0.7133507853403142 | % Hombres: 0.2866492147 | Fuente: DTI
+Grupo de programa: Educación Inicial | Nivel: Perú | Clasificación: Feminizado | Año: 2024 | % Mujeres: 0.9921593098022192 | % Hombres: 0.007840690198 | Fuente: SUNEDU
+Grupo de programa: Educación Primaria | Nivel: Perú | Clasificación: Feminizado | Año: 2024 | % Mujeres: 0.7734732523275998 | % Hombres: 0.2265267477 | Fuente: SUNEDU
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: Perú | Clasificación: Neutral | Año: 2024 | % Mujeres: 0.44576741151525034 | % Hombres: 0.5542325885 | Fuente: SUNEDU
+Grupo de programa: Marketing y Publicidad | Nivel: Perú | Clasificación: Neutral | Año: 2024 | % Mujeres: 0.6208863248983874 | % Hombres: 0.3791136751 | Fuente: SUNEDU
+Grupo de programa: Negocios Internacionales | Nivel: Perú | Clasificación: Neutral | Año: 2024 | % Mujeres: 0.5908398257248944 | % Hombres: 0.4091601743 | Fuente: SUNEDU
+Grupo de programa: Psicología | Nivel: Perú | Clasificación: Feminizado | Año: 2024 | % Mujeres: 0.7424526714890203 | % Hombres: 0.2575473285 | Fuente: SUNEDU
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: Perú | Clasificación: Feminizado | Año: 2024 | % Mujeres: 0.8047429078014184 | % Hombres: 0.1952570922 | Fuente: SUNEDU
+Grupo de programa: Educación Inicial | Nivel: PUCP | Clasificación: Feminizado | Año: 2024 | % Mujeres: 1 | % Hombres: 0 | Fuente: DTI
+Grupo de programa: Educación Primaria | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2024 | % Mujeres: 0.8705035971223022 | % Hombres: 0.1294964029 | Fuente: DTI
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2024 | % Mujeres: 0.6477272727272727 | % Hombres: 0.3522727273 | Fuente: DTI
+Grupo de programa: Marketing y Publicidad | Nivel: PUCP | Clasificación: Feminizado | Año: 2024 | % Mujeres: 0.7722419928825622 | % Hombres: 0.2277580071 | Fuente: DTI
+Grupo de programa: Negocios Internacionales | Nivel: PUCP | Clasificación: Feminizado | Año: 2024 | % Mujeres: 0.7264851485148515 | % Hombres: 0.2735148515 | Fuente: DTI
+Grupo de programa: Psicología | Nivel: PUCP | Clasificación: Feminizado | Año: 2024 | % Mujeres: 0.759915611814346 | % Hombres: 0.2400843882 | Fuente: DTI
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: PUCP | Clasificación: Con tendencia a la feminización | Año: 2024 | % Mujeres: 0.7371794871794872 | % Hombres: 0.2628205128 | Fuente: DTI
+Grupo de programa: Educación Inicial | Nivel: PUCP | Clasificación: Feminizado | Año: 2025 | % Mujeres: 0.9946 | % Hombres: 0.0054 | Fuente: DTI
+Grupo de programa: Educación Primaria | Nivel: PUCP | Clasificación: Feminizado | Año: 2025 | % Mujeres: 0.8591 | % Hombres: 0.1409 | Fuente: DTI
+Grupo de programa: Hotelería, Restaurantes y Gastronomía | Nivel: PUCP | Clasificación: Neutral | Año: 2025 | % Mujeres: 0.6014 | % Hombres: 0.3986 | Fuente: DTI
+Grupo de programa: Marketing y Publicidad | Nivel: PUCP | Clasificación: Feminizado | Año: 2025 | % Mujeres: 0.784 | % Hombres: 0.216 | Fuente: DTI
+Grupo de programa: Negocios Internacionales | Nivel: PUCP | Clasificación: Feminizado | Año: 2025 | % Mujeres: 0.7455 | % Hombres: 0.2545 | Fuente: DTI
+Grupo de programa: Psicología | Nivel: PUCP | Clasificación: Feminizado | Año: 2025 | % Mujeres: 0.7511 | % Hombres: 0.2489 | Fuente: DTI
+Grupo de programa: Diseño Industrial, de Modas e Interiores | Nivel: PUCP | Clasificación: Feminizado | Año: 2025 | % Mujeres: 0.7521 | % Hombres: 0.2479 | Fuente: DTI

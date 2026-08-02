@@ -1,0 +1,13 @@
+FUENTE: Base de datos de buenas prácticas del Observatorio de Género en Educación Superior (PUCP)
+Título: Supporting Survivors and Self (SSS)
+Tema: No violencia
+Objetivo del programa/intervención: Mejorar la calidad de las reacciones sociales que estudiantes universitarios/as ofrecen cuando una persona de su entorno revela haber sufrido violencia sexual o violencia en el ámbito de las citas, promoviendo respuestas empáticas, no culpabilizadoras y emocionalmente seguras.
+Descripción de la intervención o programa: Supporting Survivors and Self (SSS) es una intervención psicoeducativa breve, presencial y grupal de dos sesiones, diseñada para capacitar a estudiantes universitarios/as en cómo responder adecuadamente a las revelaciones de violencia sexual y de pareja. El programa enseña:
+qué decir y qué evitar al escuchar una revelación, cómo validar emociones y no reforzar la auto-culpabilización, cómo apoyar a la persona sobreviviente sin promover evitación emocional, cómo reconocer el propio rol como recurso de apoyo seguro.
+SSS también busca fortalecer la capacidad de las personas participantes para manejar su propio bienestar emocional si llegaran a enfrentar revelaciones o experiencias personales de victimización.
+Países: Estados Unidos
+Duración y/o período de implementación: Implementado en campus universitarios desde 2018; evaluado mediante ensayo controlado en 2019–2020.
+Evidencia de su contribución: No se observaron efectos globales sobre síntomas de depresión o auto-culpabilización entre quienes fueron posteriormente victimizados/as.
+Sin embargo, la intervención redujo significativamente síntomas de estrés postraumático (PTS) —en especial evitación y cambios negativos en cognición y humor— en participantes que posteriormente experimentaron violencia física en la pareja o sexo no consentido.
+No se hallaron diferencias por género en la eficacia del programa.
+Referencias: Edwards, K. M., Waterman, E. A., Dardis, C. M., Ullman, S. E., Rodriguez, L. M., & Dworkin, E. R. (2021). A program to improve social reactions to sexual and dating violence disclosures reduces posttraumatic stress in subsequently victimized participants. Psychological trauma: theory, research, practice, and policy, 13(3), 368.

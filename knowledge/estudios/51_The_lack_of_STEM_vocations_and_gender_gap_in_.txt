@@ -1,0 +1,21 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: The lack of STEM vocations and gender gap in secondary education students
+Autores/as: Mariana Hernández-Pérez 
+José A. Alonso-Sánchez 
+Pedro M. Hernández-Castellano
+Eduardo G. Quevedo-Gutiérrez
+Año: 2024
+País: España
+Tipo de publicación: Artículo de revista
+Tema: Participación en campos académicos
+Resumen: La brecha de género en las vocaciones STEM entre estudiantes de educación secundaria sigue siendo una realidad preocupante. Diversos estudios indican que, en general, el estudiantado muestra menor interés por las asignaturas de ciencia y tecnología, y esta disparidad es aún más marcada entre las estudiantes mujeres. De hecho, la mencionada brecha de género en STEM comienza a manifestarse a edades tempranas y se acentúa durante la adolescencia.
+
+Entre las múltiples causas se encuentran factores culturales, estereotipos de género y la falta de referentes femeninos. Por ello, resulta fundamental promover la igualdad de género y fomentar la inclusión y la diversidad en el entorno educativo como una medida clave para reducir esta brecha.
+
+En este marco, el presente estudio llevó a cabo una investigación integral para analizar los factores que contribuyen a la brecha de género en las carreras STEM. Para ello, se realizó una encuesta a aproximadamente 1,000 estudiantes de educación secundaria provenientes de diversos centros educativos en las Islas Canarias. Los resultados de la encuesta permitieron identificar la influencia directa de los referentes cercanos en las decisiones del estudiantado, así como la escasez de modelos femeninos.
+
+Esto permitió identificar medidas efectivas para incrementar la participación de las mujeres en estos campos. Una de las soluciones propuestas es la implementación de talleres prácticos en los que las figuras femeninas desempeñen un papel central. Estos talleres buscan mostrar al estudiantado que existen numerosos referentes cercanos que pueden motivarlos y alentarlos a explorar y desarrollar su interés por el campo de la ciencia y la tecnología.
+
+Al ofrecer estas oportunidades y referentes, el objetivo es fortalecer su confianza y brindarles las herramientas necesarias para aprovechar todas las oportunidades que el campo STEM tiene para ofrecer.
+Enlace: https://doi.org/10.3389/feduc.2024.1428952
+Referencia: Hernández-Pérez, M., Hernández-Castellano, P. M., Alonso-Sánchez, J. A., & Quevedo-Gutiérrez, E. G. (2024). The Challenge of the Gender Gap and the Lack of STEM Vocations in ESO and Baccalaureate. IEEE Revista Iberoamericana de Tecnologias del Aprendizaje, 19, 331-341. https://doi.org/10.1109/RITA.2024.3499337 

@@ -1,0 +1,26 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 5
+
+Participación en campos académicos
+Indicador 5: Graduación en grupos de programas STEM, por sexo
+COLUMNAS: Nivel | Año | % Mujeres | % Hombres | Fuente
+Nivel: Unión Europea | Año: 2017 | % Mujeres: 0.334 | % Hombres: 0.666 | Fuente: Eurostat
+Nivel: Unión Europea | Año: 2018 | % Mujeres: 0.333 | % Hombres: 0.667 | Fuente: Eurostat
+Nivel: Unión Europea | Año: 2019 | % Mujeres: 0.323 | % Hombres: 0.677 | Fuente: Eurostat
+Nivel: Unión Europea | Año: 2020 | % Mujeres: 0.325 | % Hombres: 0.675 | Fuente: Eurostat
+Nivel: Unión Europea | Año: 2021 | % Mujeres: 0.328 | % Hombres: 0.672 | Fuente: Eurostat
+Nivel: Unión Europea | Año: 2022 | % Mujeres: 0.33 | % Hombres: 0.67 | Fuente: Eurostat
+Nivel: Unión Europea | Año: 2023 | % Mujeres: 0.335 | % Hombres: 0.665 | Fuente: Eurostat
+Nivel: Unión Europea | Año: 2024 | % Mujeres: 0.336 | % Hombres: 0.664 | Fuente: Eurostat
+Nivel: Perú | Año: 2017 | % Mujeres: 0.478 | % Hombres: 0.522 | Fuente: Eurostat
+Nivel: Perú | Año: 2021 | % Mujeres: 0.38 | % Hombres: 0.62 | Fuente: Eurostat
+Nivel: PUCP | Año: 2017 | % Mujeres: 0.2178 | % Hombres: 0.7822 | Fuente: DTI
+Nivel: PUCP | Año: 2018 | % Mujeres: 0.2541 | % Hombres: 0.7459 | Fuente: DTI
+Nivel: PUCP | Año: 2019 | % Mujeres: 0.2729 | % Hombres: 0.7271 | Fuente: DTI
+Nivel: PUCP | Año: 2020 | % Mujeres: 0.2602 | % Hombres: 0.7398 | Fuente: DTI
+Nivel: PUCP | Año: 2021 | % Mujeres: 0.2484 | % Hombres: 0.7516 | Fuente: DTI
+Nivel: PUCP | Año: 2022 | % Mujeres: 0.2619 | % Hombres: 0.7381 | Fuente: DTI
+Nivel: PUCP | Año: 2023 | % Mujeres: 0.2708 | % Hombres: 0.7292 | Fuente: DTI
+Nivel: PUCP | Año: 2024 | % Mujeres: 0.2531 | % Hombres: 0.7469 | Fuente: DTI
+Nivel: Fuente: Eurostat y DTI. 
+Nivel: Enlace: https://ec.europa.eu/eurostat/databrowser/view/tps00217/default/table?lang=en

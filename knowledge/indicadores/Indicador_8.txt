@@ -1,0 +1,47 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 8
+
+Liderazgo y representación
+Indicador 7: Autoridades universitarias, por sexo
+I8_a: Porcentaje de autoridades universitarias que son mujeres
+I8_b: Porcentaje de autoridades universitarias que son hombres
+COLUMNAS: Año | Nivel | Cargo | % Mujeres | % Hombres | Fuente
+Año: 2019 | Nivel: Perú | Cargo: Total | % Mujeres: 24 | % Hombres: 76 | Fuente: SUNEDU
+Año: 2019 | Nivel: Universidades privadas asociativas | Cargo: Total | % Mujeres: 25 | % Hombres: 75 | Fuente: SUNEDU
+Año: 2019 | Nivel: Universidades privadas societarias | Cargo: Total | % Mujeres: 27 | % Hombres: 73 | Fuente: SUNEDU
+Año: 2019 | Nivel: Universidades públicas | Cargo: Total | % Mujeres: 21 | % Hombres: 79 | Fuente: SUNEDU
+Año: 2019 | Nivel: PUCP | Cargo: Total | % Mujeres: 38 | % Hombres: 62 | Fuente: DGTH
+Año: 2021 | Nivel: Perú | Cargo: Total | % Mujeres: 24 | % Hombres: 76 | Fuente: SUNEDU
+Año: 2021 | Nivel: Universidades privadas asociativas | Cargo: Total | % Mujeres: 19 | % Hombres: 81 | Fuente: SUNEDU
+Año: 2021 | Nivel: Universidades privadas societarias | Cargo: Total | % Mujeres: 36 | % Hombres: 64 | Fuente: SUNEDU
+Año: 2021 | Nivel: Universidades públicas | Cargo: Total | % Mujeres: 20 | % Hombres: 80 | Fuente: SUNEDU
+Año: 2021 | Nivel: PUCP | Cargo: Total | % Mujeres: 40 | % Hombres: 60 | Fuente: DGTH
+Año: 2022 | Nivel: Perú | Cargo: Total | % Mujeres: 25 | % Hombres: 75 | Fuente: SUNEDU
+Año: 2022 | Nivel: Universidades privadas asociativas | Cargo: Total | % Mujeres: 32 | % Hombres: 68 | Fuente: SUNEDU
+Año: 2022 | Nivel: Universidades privadas societarias | Cargo: Total | % Mujeres: 39 | % Hombres: 61 | Fuente: SUNEDU
+Año: 2022 | Nivel: Universidades públicas | Cargo: Total | % Mujeres: 19 | % Hombres: 81 | Fuente: SUNEDU
+Año: 2022 | Nivel: PUCP | Cargo: Total | % Mujeres: 40 | % Hombres: 60 | Fuente: DGTH
+Año: 2019 | Nivel: Perú | Cargo: Rector/a | % Mujeres: 9 | % Hombres: 91 | Fuente: SUNEDU
+Año: 2019 | Nivel: PUCP | Cargo: Rector/a | % Mujeres: 0 | % Hombres: 100 | Fuente: DGTH
+Año: 2021 | Nivel: Perú | Cargo: Rector/a | % Mujeres: 12 | % Hombres: 88 | Fuente: SUNEDU
+Año: 2021 | Nivel: PUCP | Cargo: Rector/a | % Mujeres: 0 | % Hombres: 100 | Fuente: DGTH
+Año: 2022 | Nivel: Perú | Cargo: Rector/a | % Mujeres: 19.7 | % Hombres: 80.3 | Fuente: SUNEDU
+Año: 2022 | Nivel: PUCP | Cargo: Rector/a | % Mujeres: 0 | % Hombres: 100 | Fuente: DGTH
+Año: 2019 | Nivel: Perú | Cargo: Vicerrector/a | % Mujeres: 29 | % Hombres: 71 | Fuente: SUNEDU
+Año: 2019 | Nivel: PUCP | Cargo: Vicerrector/a | % Mujeres: 33 | % Hombres: 67 | Fuente: DGTH
+Año: 2021 | Nivel: Perú | Cargo: Vicerrector/a | % Mujeres: 29 | % Hombres: 71 | Fuente: SUNEDU
+Año: 2021 | Nivel: PUCP | Cargo: Vicerrector/a | % Mujeres: 33 | % Hombres: 67 | Fuente: DGTH
+Año: 2022 | Nivel: Perú | Cargo: Vicerrector/a | % Mujeres: 23 | % Hombres: 77 | Fuente: SUNEDU
+Año: 2022 | Nivel: PUCP | Cargo: Vicerrector/a | % Mujeres: 33 | % Hombres: 67 | Fuente: DGTH
+Año: 2019 | Nivel: Perú | Cargo: Decano/a | % Mujeres: 21 | % Hombres: 79 | Fuente: SUNEDU
+Año: 2019 | Nivel: PUCP | Cargo: Decano/a | % Mujeres: 38 | % Hombres: 62 | Fuente: DGTH
+Año: 2021 | Nivel: Perú | Cargo: Decano/a | % Mujeres: 23 | % Hombres: 77 | Fuente: SUNEDU
+Año: 2021 | Nivel: PUCP | Cargo: Decano/a | % Mujeres: 47 | % Hombres: 53 | Fuente: DGTH
+Año: 2022 | Nivel: Perú | Cargo: Decano/a | % Mujeres: 23.4 | % Hombres: 76.6 | Fuente: SUNEDU
+Año: 2022 | Nivel: PUCP | Cargo: Decano/a | % Mujeres: 50 | % Hombres: 50 | Fuente: DGTH
+Año: 2019 | Nivel: Perú | Cargo: Secretario/a general | % Mujeres: 30 | % Hombres: 70 | Fuente: SUNEDU
+Año: 2019 | Nivel: PUCP | Cargo: Secretario/a general | % Mujeres: 0 | % Hombres: 100 | Fuente: DGTH
+Año: 2021 | Nivel: Perú | Cargo: Secretario/a general | % Mujeres: 35 | % Hombres: 65 | Fuente: SUNEDU
+Año: 2021 | Nivel: PUCP | Cargo: Secretario/a general | % Mujeres: 0 | % Hombres: 100 | Fuente: DGTH
+Año: 2022 | Nivel: Perú | Cargo: Secretario/a general | % Mujeres: 36.7 | % Hombres: 63.3 | Fuente: SUNEDU
+Año: 2022 | Nivel: PUCP | Cargo: Secretario/a general | % Mujeres: 0 | % Hombres: 100 | Fuente: DGTH

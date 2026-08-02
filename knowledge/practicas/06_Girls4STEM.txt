@@ -1,0 +1,15 @@
+FUENTE: Base de datos de buenas prácticas del Observatorio de Género en Educación Superior (PUCP)
+Título: Girls4STEM
+Tema: Fomento de la participación de mujeres en diversos ámbitos
+Objetivo del programa/intervención: El programa busca promover vocaciones STEM en niñas y adolescentes, visibilizar a mujeres STEM como modelos a seguir e involucrar a familias, docentes y profesionales en la reducción de la brecha de género.
+Descripción de la intervención o programa: Girls4STEM es una iniciativa de divulgación que organiza actividades donde niñas y adolescentes interactúan directamente con mujeres STEM. Incluye sesiones para estudiantes y familias, en las que se realizan encuentros con expertas, visitas o videoconferencias, y se elaboran materiales divulgativos como videos; así como sesiones dirigidas a docentes y profesionales para incorporar la perspectiva de género en ciencia y tecnología. El programa amplía un piloto previo orientado a incrementar la presencia femenina en carreras de ingeniería.
+Países: España
+Duración y/o período de implementación: Implementado desde 2019, sobre la base de un piloto desarrollado entre 2011 y 2018.
+Evidencia de su contribución: Aumento sostenido en el porcentaje de mujeres matriculadas en grados vinculados a Informática y Computación en la Universidad de Valencia tras el piloto (diferencia aproximada de +7 puntos porcentuales respecto al promedio nacional).
+Incremento en la proporción de mujeres en Ingeniería Electrónica luego de la implementación continua del programa.
+Participación regular de aproximadamente 100 personas por evento en las sesiones públicas del programa"
+Mayor identificación de niñas y adolescentes con referentes femeninos en STEM.
+Incremento en el interés declarado hacia estudios STEM luego de la interacción con investigadoras y profesionales.
+Percepción positiva por parte de familias y docentes sobre la utilidad de visibilizar modelos femeninos y conectar las STEM con su impacto social.
+Reportes de docentes indicando mayor motivación en estudiantes para explorar trayectorias tecnológicas y científicas.
+Referencias: Lopez-Inesta, E., Botella, C., Rueda, S., Forte, A., & Marzal, P. (2020). Towards breaking the gender gap in Science, Technology, Engineering and Mathematics. IEEE Revista Iberoamericana de Tecnologias del Aprendizaje, 15(3), 233-241.

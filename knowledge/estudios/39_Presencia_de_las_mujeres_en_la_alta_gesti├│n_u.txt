@@ -1,0 +1,19 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Presencia de las mujeres en la alta gestión universitaria. Las universidades públicas en Chile
+Autores/as: Sara del Pino Arriagada, Rosana Vallejos Cartes, Luis Ampestica-Rivas, Edinson Cornejo Saavedra
+Año: 2017
+País: Chile
+Tipo de publicación: Artículo de revista
+Tema: Liderazgo y representación
+
+Resumen:  Este estudio se propone revisar la participación de las mujeres en la gestión
+de las universidades públicas chilenas durante el año 2014 y analizar techos de cristal
+que impiden su ascenso. De 847 cargos directivos, 206 son ocupados por mujeres
+(24,3%): esta participación se concentra en decanaturas o direcciones de departamento,
+y resulta baja en los niveles superiores. A través de un modelo logit, se mide su
+desempeño mediante variables de años de acreditación, presencia en ranking QS e
+indicadores financieros. Se establece que no hay significancia estadística que permita
+inferir que el desempeño de las universidades depende de la presencia de mujeres u
+hombres en la gestión.
+Enlace: https://doi.org/10.22235/pe.v11i2.1633 
+Referencia: del Pino Arriagada, S., Vallejos Cartes, R., Améstica-Rivas, L., & Cornejo-Saavedra, E. (2018). Presencia de las mujeres en la alta gestión universitaria. Las universidades públicas en Chile. Páginas de educación, 11(2), 176-198. https://doi.org/10.22235/pe.v11i2.1633 

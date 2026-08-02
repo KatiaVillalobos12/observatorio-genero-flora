@@ -1,0 +1,29 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 1
+
+Acceso, permanencia y culminación
+Indicador 1: Matrícula de estudiantes por sexo
+I1: Matrícula de estudiantes por sexo
+COLUMNAS: Año | Nivel | % Mujeres | % Hombres | Fuente
+Año: 2020 | Nivel: Perú | % Mujeres: 50.54 | % Hombres: 49.46 | Fuente: SUNEDU
+Año: 2021 | Nivel: Perú | % Mujeres: 51.27 | % Hombres: 48.73 | Fuente: SUNEDU
+Año: 2022 | Nivel: Perú | % Mujeres: 51.3 | % Hombres: 48.7 | Fuente: SUNEDU
+Año: 2023 | Nivel: Perú | % Mujeres: 51.05 | % Hombres: 48.95 | Fuente: SUNEDU
+Año: 2024 | Nivel: Perú | % Mujeres: 51.03 | % Hombres: 48.97 | Fuente: SUNEDU
+Año: 2025 | Nivel: Perú | % Mujeres: 51.21 | % Hombres: 48.79 | Fuente: SUNEDU
+Año: 2020 | Nivel: Universidades privadas | % Mujeres: 52.73 | % Hombres: 47.27 | Fuente: SUNEDU
+Año: 2021 | Nivel: Universidades privadas | % Mujeres: 53.22 | % Hombres: 46.78 | Fuente: SUNEDU
+Año: 2022 | Nivel: Universidades privadas | % Mujeres: 53.09 | % Hombres: 46.91 | Fuente: SUNEDU
+Año: 2023 | Nivel: Universidades privadas | % Mujeres: 52.75 | % Hombres: 47.25 | Fuente: SUNEDU
+Año: 2024 | Nivel: Universidades privadas | % Mujeres: 52.71 | % Hombres: 47.29 | Fuente: SUNEDU
+Año: 2020 | Nivel: Universidades públicas | % Mujeres: 46.15 | % Hombres: 53.85 | Fuente: SUNEDU
+Año: 2021 | Nivel: Universidades públicas | % Mujeres: 46.25 | % Hombres: 53.75 | Fuente: SUNEDU
+Año: 2022 | Nivel: Universidades públicas | % Mujeres: 46.15 | % Hombres: 53.85 | Fuente: SUNEDU
+Año: 2023 | Nivel: Universidades públicas | % Mujeres: 45.71 | % Hombres: 54.29 | Fuente: SUNEDU
+Año: 2024 | Nivel: Universidades públicas | % Mujeres: 45.17 | % Hombres: 54.83 | Fuente: SUNEDU
+Año: 2020 | Nivel: PUCP | % Mujeres: 48.3 | % Hombres: 51.7 | Fuente: DTI
+Año: 2021 | Nivel: PUCP | % Mujeres: 48.4 | % Hombres: 51.6 | Fuente: DTI
+Año: 2022 | Nivel: PUCP | % Mujeres: 48.6 | % Hombres: 51.4 | Fuente: DTI
+Año: 2023 | Nivel: PUCP | % Mujeres: 48.7 | % Hombres: 51.3 | Fuente: DTI
+Año: 2024 | Nivel: PUCP | % Mujeres: 48.9 | % Hombres: 51.1 | Fuente: DTI
+Año: 2025 | Nivel: PUCP | % Mujeres: 49 | % Hombres: 51 | Fuente: DTI

@@ -1,0 +1,17 @@
+FUENTE: Base de datos de buenas prácticas del Observatorio de Género en Educación Superior (PUCP)
+Título: The Men's project
+Tema: No violencia
+Objetivo del programa/intervención: Comprometer a varones universitarios como agentes activos en la prevención de la violencia sexual, mediante un proceso formativo intensivo que cuestiona normas de género, reduce actitudes sexistas y fortalece habilidades de intervención y activismo.
+Descripción de la intervención o programa: Programa dirigido exclusivamente a estudiantes varones, que combina enfoques de normas sociales, empatía y bystander intervention. El programa busca desmantelar ideologías que sostienen la violencia sexual (sexismo, aceptación de mitos de violación y uso de lenguaje sexista) y promover masculinidades más igualitarias.
+
+Su estructura se organiza en tres bloques:
+
+Masculinidades y socialización de género (3 semanas): análisis del privilegio masculino, construcción social del poder y revisión crítica de normas de masculinidad.
+Comprensión del impacto de la violencia sexual (5 semanas): profundización en la realidad, escalas y consecuencias emocionales y psicológicas de la violencia sexual.
+Bystander intervention y activismo (3 semanas): desarrollo de habilidades para intervenir frente a comportamientos sexistas y promover cambios institucionales.
+
+Está diseñado para líderes estudiantiles con influencia en sus redes sociales, buscando maximizar el efecto multiplicador en el campus.
+Países: Estados Unidos
+Duración y/o período de implementación: 11 semanas, con sesiones de 2 horas una vez por semana. Evaluado en su implementación entre 2013 y 2014.
+Evidencia de su contribución: Reducción significativa en actitudes individuales relacionadas a sexismo hostil (d = .45), sexismo benevolente (d = .34), aceptación de mitos de violación (d = .87), uso de lenguaje sesgado por género (lenguaje sexista) (d = .24), percepción de autoeficacia para intervenir como bystander: (d = .95), disposición a participar en acciones colectivas (d = .62) y activismo feminista (d = 1.11).
+Referencias: Stewart, A. L. (2014). The Men’s Project: A sexual assault prevention program targeting college men. Psychology of Men & Masculinity, 15(4), 481.

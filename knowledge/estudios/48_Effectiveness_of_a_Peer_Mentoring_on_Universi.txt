@@ -1,0 +1,14 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Effectiveness of a Peer Mentoring on University Dropout and Academic Performance
+Autores/as: Miguel A. Alonso
+Aitana González-Ortiz-de-Zárate
+M. Ángeles Gómez-Flechoso
+Marco Castrillón
+Año: 2024
+País: España
+Tipo de publicación: Artículo de revista
+Tema: Acceso, permanencia y culminación
+Resumen: Se ha propuesto la aplicación de programas de mentoría para reducir la deserción universitaria y aumentar el rendimiento académico. En el artículo analizamos el efecto de la mentoría entre pares sobre el abandono universitario y el rendimiento académico en España. Aplicamos un diseño de grupo de control cuasiexperimental con medida post en una muestra de 3.774 estudiantes (mentorados, n = 1,887; control, n = 1,887). Los mentorados habían participado en un programa de mentoría entre pares. Aplicamos la prueba t de Student, la d de Cohen, el estadístico phi y el chi-cuadrado. Los mentorados presentaban un menor abandono que los controles y un mayor rendimiento académico independientemente del área de conocimiento. Los resultados avalan la implementación de programas de mentoría en las universidades españolas con el objetivo de reducir el abandono universitario y aumentar el rendimiento académico. La investigación proporciona evidencia empírica para la elaboración de teorías en estudios de educación superior, relaciones de desarrollo y programas de integración.
+
+Enlace: https://doi.org/10.5093/psed2024a5
+Referencia: Alonso, M. A. Gonzalez-Ortiz-de-Za rate, A., Gomez-Flechoso, MA, & Castrillo n, M.(2024). Effectiveness of a Peer Mentoring on University Dropout and Academic Performance. Educational Psychology, 30(1), 29-37. https://doi.org/10.5093/psed2024a5 

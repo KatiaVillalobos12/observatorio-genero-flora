@@ -1,0 +1,11 @@
+FUENTE: Base de datos de estudios del Observatorio de Género en Educación Superior (PUCP)
+Título: Brechas de equidad en el acceso a la educación superior argentina
+Autores/as: Cecilia Adrogué
+Ana García de Fanelli
+Año: 2021
+País: Argentina
+Tipo de publicación: Artículo de revista
+Tema: Acceso, permanencia y culminación
+Resumen: En un contexto de mecanismos de admisión poco selectivos y gratuidad de los estudios en el sector público, la demanda social por estudios de educación superior creció fuertemente en Argentina. Este artículo analiza si el acceso a la educación superior argentina presenta patrones de desigualdad social. Para ello se estudia si la probabilidad de acceso a la educación superior que tiene cada egresado del nivel secundario difiere según su posición en la estratificación económica, el nivel educativo del hogar y el género. Tras estimar un modelo de regresión logística se encontró que las chances de acceso a la educación superior son menores para los jóvenes de nivel socioeconómico bajo y primera generación con educación universitaria. La juventud que habita hogares de menor ingreso económico y capital cultural tiene además mayor probabilidad de estudiar carreras terciarias que universitarias y de asistir a una institución pública que privada
+Enlace: https://doi.org/10.22235/pe.v14i2.2507 
+Referencia: Adrogué, C., & García de Fanelli, A. (2021). Brechas de equidad en el acceso a la educación superior argentina. Páginas de Educación, 14(2), 28-51. https://doi.org/10.22235/pe.v14i2.2507 

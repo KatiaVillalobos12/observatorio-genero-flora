@@ -1,0 +1,24 @@
+FUENTE: Base de datos de indicadores del Observatorio de Género en Educación Superior (PUCP)
+HOJA: Indicador 7
+
+Participación en investigación
+Indicador 7: Investigadores/as, por sexo
+I7_a: Porcentaje de investigadores/as que son mujeres
+I7_b: Porcentaje de investigadores/as que son hombres
+COLUMNAS: Año | Nivel | % Mujeres | % Hombres | Fuente
+Año: 2023 | Nivel: América Latina | % Mujeres: 31.36 | % Hombres: 68.64 | Fuente: UNESCO
+Año: 2023 | Nivel: América Latina | % Mujeres: 44.64 | % Hombres: 55.36 | Fuente: UNESCO
+Año: 2017 | Nivel: Perú | % Mujeres: 30.65 | % Hombres: 69.35 | Fuente: UNESCO
+Año: 2018 | Nivel: Perú | % Mujeres: 30.66 | % Hombres: 69.34 | Fuente: UNESCO
+Año: 2019 | Nivel: Perú | % Mujeres: 31.33 | % Hombres: 68.67 | Fuente: UNESCO
+Año: 2020 | Nivel: Perú | % Mujeres: 31.15 | % Hombres: 68.85 | Fuente: UNESCO
+Año: 2021 | Nivel: Perú | % Mujeres: 31.58 | % Hombres: 68.42 | Fuente: UNESCO
+Año: 2022 | Nivel: Perú | % Mujeres: 31.8 | % Hombres: 68.2 | Fuente: UNESCO
+Año: 2023 | Nivel: Perú | % Mujeres: 32.28 | % Hombres: 67.72 | Fuente: UNESCO
+Año: 2019 | Nivel: PUCP | % Mujeres: 30.92 | % Hombres: 69.08 | Fuente: DFI
+Año: 2020 | Nivel: PUCP | % Mujeres: 32.99 | % Hombres: 67.01 | Fuente: DFI
+Año: 2021 | Nivel: PUCP | % Mujeres: 33.41 | % Hombres: 66.59 | Fuente: DFI
+Año: 2022 | Nivel: PUCP | % Mujeres: 31.46 | % Hombres: 68.54 | Fuente: DFI
+Año: 2023 | Nivel: PUCP | % Mujeres: 33.23 | % Hombres: 66.77 | Fuente: DFI
+Año: Fuente: UIS Data
+Año: Enlace: https://databrowser.uis.unesco.org/view#indicatorPaths=UIS-EducationOPRI%3A0%3AFTP.5%2CUIS-EducationOPRI%3A0%3AFTP.5T8%2CUIS-ScienceOPRI%3A0%3AFRESP.THC&geoMode=countries&geoUnits=&browsePath=SCIENCE_TECHNOLOGY_INNOVATION%2FUIS-ScienceOPRI%2Ffem-res%2Fper-fem-res&timeMode=range&view=table&chartMode=multiple&tableIndicatorId=FRESP.THC&chartIndicatorId=FRESP.THC&chartHighlightSeries=&chartHighlightEnabled=true
