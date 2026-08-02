@@ -10,7 +10,7 @@
 
 ## Qué es
 
-**Flora** es el asistente conversacional planteado en la ficha de diagnóstico inicial del
+**Flora** es la asistenta conversacional planteado en la ficha de diagnóstico inicial del
 curso para el **Observatorio de Género en Educación Superior** (Oficina para la Igualdad de
 Género y Diversidad, PUCP). Su nombre es un homenaje a Flora Tristán, pensadora y pionera del
 feminismo peruano. El Observatorio publica indicadores, estudios y buenas prácticas sobre
@@ -22,7 +22,7 @@ Flora responde preguntas en lenguaje natural y cita siempre la fuente original
 
 ## Cómo funciona (arquitectura)
 
-En vez de un pipeline de embeddings + base vectorial, el asistente usa un enfoque de
+En vez de un pipeline de embeddings + base vectorial, la asistenta usa un enfoque de
 **recuperación agéntica**: el LLM tiene acceso a una herramienta de terminal bash virtual
 (`bash-tool` + `just-bash`) con los documentos del Observatorio cargados como archivos de
 texto. El modelo decide cuándo usar `grep`/`cat`/`ls` para buscar la información relevante
